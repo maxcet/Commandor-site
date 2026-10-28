@@ -8,8 +8,8 @@ const hash=async bytes=>Array.from(new Uint8Array(await crypto.subtle.digest('SH
 const utf8=new TextEncoder();
 const mapLimit=async(items,limit,run)=>{const result=new Array(items.length);let next=0;await Promise.all(Array.from({length:Math.min(limit,items.length)},async()=>{while(next<items.length){const i=next++;result[i]=await run(items[i],i);}}));return result;};
 try{
- const storage=await fetchChecked('audio2-storage.json?v=20261028','json');
- const [base,sections]=await Promise.all([fetchChecked('gallery-base.html','text'),Promise.all(storage.template_sections.map(p=>fetchChecked(p+'?v=20261028','text')))]);
+ const storage=await fetchChecked('audio2-storage.json?v=20261028-clean-audio','json');
+ const [base,sections]=await Promise.all([fetchChecked('gallery-base.html','text'),Promise.all(storage.template_sections.map(p=>fetchChecked(p+'?v=20261028-clean-audio','text')))]);
  if(await hash(utf8.encode(base))!==storage.base_sha256)throw new Error('Gallery checksum mismatch');
  const images=base.match(/data:image\/jpeg;base64,[^"\s]+/g)||[];
  if(images.length!==storage.image_count)throw new Error('Gallery image count mismatch');
