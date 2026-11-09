@@ -1,0 +1,42 @@
+{
+  "fps": 25,
+  "video_frames": 21321,
+  "duration_seconds": 852.84,
+  "duration_timecode": "00:14:12:21",
+  "source_files": 70,
+  "selected_sources": 68,
+  "reserve_sources": 2,
+  "audio_events": 74,
+  "spoken_replicas": 57,
+  "internal_voice_fragments": 11,
+  "all_script_lines_have_audio": true,
+  "audio_seconds": 706.4,
+  "non_audio_seconds": 146.44,
+  "previous_seconds": 966.6,
+  "chapters": [
+    {
+      "chapter": 1,
+      "start_frame": 0,
+      "end_frame": 6280,
+      "duration_frames": 6280,
+      "duration_seconds": 251.2,
+      "duration_timecode": "00:04:11:05"
+    },
+    {
+      "chapter": 2,
+      "start_frame": 6280,
+      "end_frame": 9741,
+      "duration_frames": 3461,
+      "duration_seconds": 138.44,
+      "duration_timecode": "00:02:18:11"
+    },
+    {
+      "chapter": 3,
+      "start_frame": 9741,
+      "end_frame": 21321,
+      "duration_frames": 11580,
+      "duration_seconds": 463.2,
+      "duration_timecode": "00:07:43:05"
+    }
+  ]
+}

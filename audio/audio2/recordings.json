@@ -1,7 +1,7 @@
 [
   {
     "id": "audio2-001",
-    "source_filename": "ElevenLabs_2026-10-28T00_24_47_Soldani - Warm_pvc_sp100_s50_sb75_v4.mp3",
+    "source_filename": "К018c_01_Адель_МЫСЛЬ_Из командора получился бы отличный труп его.mp3",
     "source_time": "00:24:47",
     "voice": "Soldani",
     "speaker": "Адель",
@@ -10,17 +10,19 @@
     "canonical_text": "Из командора получился бы отличный труп, его даже на холод не пришлось бы нести — уверена, что он и без того ледяной, как вершина Менезы.",
     "recognized_text": "С командора получился бы отличный труб, его даже на холод не пришлось бы нести. Уверена, что он и без того ледяной, как вершина менязы.",
     "duration_seconds": 9.04,
-    "file": "audio/audio2/a2-001-soldani-002447.mp3",
+    "file": "audio/audio2/sources/К018c_01_Адель_МЫСЛЬ_Из командора получился бы отличный труп его.mp3",
     "sha256": "79fe6cc7b0375d5780fd2b3edf5b96cb54524ce6f70db39b85b37f9cd77832e4",
     "note": "",
     "segments": [
       {
         "frame": "018c",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 9.04,
+        "timeline_start_frame": 4326,
+        "timeline_end_frame": 4552,
         "text": "Из командора получился бы отличный труп, его даже на холод не пришлось бы нести — уверена, что он и без того ледяной, как вершина Менезы.",
-        "playback_file": "audio/audio2/a2-001-soldani-002447.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018c_01_Адель_Из командора получился бы отличный труп его.wav"
       }
     ],
     "recognition_segments": [
@@ -184,11 +186,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T00_24_47_Soldani - Warm_pvc_sp100_s50_sb75_v4.mp3",
+    "decoded_samples": 433920,
+    "decoded_seconds": 9.04,
+    "selected": true,
+    "filename": "К018c_01_Адель_МЫСЛЬ_Из командора получился бы отличный труп его.mp3"
   },
   {
     "id": "audio2-002",
-    "source_filename": "ElevenLabs_2026-10-28T00_58_02_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К001_01_Кеммер_Р1.01_Нет даже не надейтесь Я не подпишу.mp3",
     "source_time": "00:58:02",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -197,17 +204,19 @@
     "canonical_text": "Нет, даже не надейтесь! Я не подпишу ваше назначение.",
     "recognized_text": "Нет, даже не надейтесь. Я не подпишу ваша назначения.",
     "duration_seconds": 4.48,
-    "file": "audio/audio2/a2-002-stanislav-005802.mp3",
+    "file": "audio/audio2/sources/К001_01_Кеммер_Р1.01_Нет даже не надейтесь Я не подпишу.mp3",
     "sha256": "185beb1fef6c645148ca785e04daa94bd033337d46e2504de3c0fd12cfeef7ba",
     "note": "",
     "segments": [
       {
         "frame": "001",
-        "recording_code": "К001",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.48,
+        "timeline_start_frame": 25,
+        "timeline_end_frame": 137,
         "text": "Нет, даже не надейтесь! Я не подпишу ваше назначение.",
-        "playback_file": "audio/audio2/a2-002-stanislav-005802.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К001_01_Кеммер_Нет даже не надейтесь Я не подпишу.wav"
       }
     ],
     "recognition_segments": [
@@ -273,11 +282,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T00_58_02_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 215040,
+    "decoded_seconds": 4.48,
+    "selected": true,
+    "filename": "К001_01_Кеммер_Р1.01_Нет даже не надейтесь Я не подпишу.mp3"
   },
   {
     "id": "audio2-003",
-    "source_filename": "ElevenLabs_2026-10-28T00_58_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К004_01_Кеммер_Р1.03_А разве вы являетесь дипломированным специалистом Может.mp3",
     "source_time": "00:58:44",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -286,17 +300,19 @@
     "canonical_text": "А разве вы являетесь дипломированным специалистом? Может быть, вы обучались в Кербе́ннской Академии Магии?",
     "recognized_text": "А разве вы являете с дипломированным специалистом? Может быть, вы обучались в Кербенской Академии Магии?",
     "duration_seconds": 6.48,
-    "file": "audio/audio2/a2-003-stanislav-005844.mp3",
+    "file": "audio/audio2/sources/К004_01_Кеммер_Р1.03_А разве вы являетесь дипломированным специалистом Может.mp3",
     "sha256": "f36b9438f4b07d531a936a3828f1d61e8e308553841ff1e5cd36df8d03e99e3a",
     "note": "",
     "segments": [
       {
         "frame": "004",
-        "recording_code": "К002",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 6.48,
+        "timeline_start_frame": 512,
+        "timeline_end_frame": 674,
         "text": "А разве вы являетесь дипломированным специалистом? Может быть, вы обучались в Кербе́ннской Академии Магии?",
-        "playback_file": "audio/audio2/a2-003-stanislav-005844.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К004_01_Кеммер_А разве вы являетесь дипломированным специалистом Может.wav"
       }
     ],
     "recognition_segments": [
@@ -406,11 +422,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T00_58_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 311040,
+    "decoded_seconds": 6.48,
+    "selected": true,
+    "filename": "К004_01_Кеммер_Р1.03_А разве вы являетесь дипломированным специалистом Может.mp3"
   },
   {
     "id": "audio2-004",
-    "source_filename": "ElevenLabs_2026-10-28T01_06_27_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К007_01_Кеммер_Р1.05_Тем не менее образования у вас нет.mp3",
     "source_time": "01:06:27",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -419,17 +440,19 @@
     "canonical_text": "Тем не менее образования у вас нет, опыта заведования медицинским кабинетом в военной части нет, навыков хирурга тоже нет, даже элементарной военной подготовки нет. На мой взгляд, вы абсолютно некомпетентны для должности, на которую претендуете.",
     "recognized_text": "Тем не менее, образование у вас нет, опыта заведывания медицинским кабинетом военной части нет, навыков хирурга тоже нет, даже элементарной военной подготовки нет. На мой взгляд, вы абсолютно не компетентной для должности, на которую претендуйте.",
     "duration_seconds": 16.96,
-    "file": "audio/audio2/a2-004-stanislav-010627.mp3",
+    "file": "audio/audio2/sources/К007_01_Кеммер_Р1.05_Тем не менее образования у вас нет.mp3",
     "sha256": "fd56e5aafa645bf16604982e82da789f27fe437c3d4d1ed16ab0cb3b3ca6c8b6",
     "note": "",
     "segments": [
       {
         "frame": "007",
-        "recording_code": "К003",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 16.96,
+        "timeline_start_frame": 1163,
+        "timeline_end_frame": 1587,
         "text": "Тем не менее образования у вас нет, опыта заведования медицинским кабинетом в военной части нет, навыков хирурга тоже нет, даже элементарной военной подготовки нет. На мой взгляд, вы абсолютно некомпетентны для должности, на которую претендуете.",
-        "playback_file": "audio/audio2/a2-004-stanislav-010627.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К007_01_Кеммер_Тем не менее образования у вас нет.wav"
       }
     ],
     "recognition_segments": [
@@ -659,11 +682,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_06_27_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 814080,
+    "decoded_seconds": 16.96,
+    "selected": true,
+    "filename": "К007_01_Кеммер_Р1.05_Тем не менее образования у вас нет.mp3"
   },
   {
     "id": "audio2-005",
-    "source_filename": "ElevenLabs_2026-10-28T01_07_11_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К010_01_Кеммер_Р1.07_Это уже мне решать.mp3",
     "source_time": "01:07:11",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -672,17 +700,19 @@
     "canonical_text": "Это уже мне решать.",
     "recognized_text": "Это уже мне решать.",
     "duration_seconds": 1.92,
-    "file": "audio/audio2/a2-005-stanislav-010711.mp3",
+    "file": "audio/audio2/sources/К010_01_Кеммер_Р1.07_Это уже мне решать.mp3",
     "sha256": "69a7cc3505b18bac74d474f40b44ab8ee2d9b634dc865c99bf56a8554611391b",
     "note": "",
     "segments": [
       {
         "frame": "010",
-        "recording_code": "К004",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 1.92,
+        "timeline_start_frame": 1872,
+        "timeline_end_frame": 1920,
         "text": "Это уже мне решать.",
-        "playback_file": "audio/audio2/a2-005-stanislav-010711.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К010_01_Кеммер_Это уже мне решать.wav"
       }
     ],
     "recognition_segments": [
@@ -718,11 +748,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_07_11_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 92160,
+    "decoded_seconds": 1.92,
+    "selected": true,
+    "filename": "К010_01_Кеммер_Р1.07_Это уже мне решать.mp3"
   },
   {
     "id": "audio2-006",
-    "source_filename": "ElevenLabs_2026-10-28T01_14_41_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К012_01_Кеммер_Р1.09_Командор Я руковожу не пехотой а воздушной.mp3",
     "source_time": "01:14:41",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -731,17 +766,19 @@
     "canonical_text": "Командор. Я руковожу не пехотой, а воздушной частью, нобларина Болла́р, поэтому моё звание — командор, а не командир. Такие вещи следует знать.",
     "recognized_text": "Командор. Я руковожу непихотой, а воздушный частью, наблорина Боллар, поэтому моё звание командор, а не командир. Такие вещи следует знать.",
     "duration_seconds": 10.88,
-    "file": "audio/audio2/a2-006-stanislav-011441.mp3",
+    "file": "audio/audio2/sources/К012_01_Кеммер_Р1.09_Командор Я руковожу не пехотой а воздушной.mp3",
     "sha256": "ba7bcfba54d238dd8dac6e0f13cb403e1acc57f2e92566d701ea85bbbdc7e54b",
     "note": "",
     "segments": [
       {
         "frame": "012",
-        "recording_code": "К005",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 10.88,
+        "timeline_start_frame": 1981,
+        "timeline_end_frame": 2253,
         "text": "Командор. Я руковожу не пехотой, а воздушной частью, нобларина Болла́р, поэтому моё звание — командор, а не командир. Такие вещи следует знать.",
-        "playback_file": "audio/audio2/a2-006-stanislav-011441.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К012_01_Кеммер_Командор Я руковожу не пехотой а воздушной.wav"
       }
     ],
     "recognition_segments": [
@@ -873,11 +910,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_14_41_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 522240,
+    "decoded_seconds": 10.88,
+    "selected": true,
+    "filename": "К012_01_Кеммер_Р1.09_Командор Я руковожу не пехотой а воздушной.mp3"
   },
   {
     "id": "audio2-007",
-    "source_filename": "ElevenLabs_2026-10-28T01_19_22_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К016-017_01_Кеммер_Р1.11_Маг жизни в авиачасти не требуется нобларина.mp3",
     "source_time": "01:19:22",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -886,25 +928,29 @@
     "canonical_text": "Маг жизни в авиачасти не требуется, нобларина Боллар. Вы же понимаете, что мои бойцы — лётчики? Кто вернулся на базу, тот в маге жизни не нуждается. А кто не вернулся — тот не вернулся. Тех нескольких раненых, что появлялись за последние годы, мы благополучно довозили до ближайшего гарнизонного госпиталя, он находится всего в часе езды на магомобиле. Если учесть, что навыками первой медицинской и магической помощи обладают все пилоты и служащие, то я с уверенностью могу заявить: необразованный и некомпетентный маг жизни принесёт намного больше пользы в другом месте.",
     "recognized_text": "Маг жизни в авиачасти не требуется, на Блорина Боллар. Вы же понимаете, что мои бойцы, лётчики, кто вернулся на базу, тот в магии жизни не нуждается. А кто не вернулся, тот не вернулся. Тех нескольких раненых, что появлялись за последние годы, мы благополучно довозили даближайшего гарнизонного госпитля. Он находится всего в часе езды на Мага Мобилия. Если учесть, что навыками первой негицинской и магической помощи обладают все пилоты и служище, то я с уверенностью могу заявить, не образованный и некомпетентный Маг жизни принесёт намного больше пользы в другом месте.",
     "duration_seconds": 36.88,
-    "file": "audio/audio2/a2-007-stanislav-011922.mp3",
+    "file": "audio/audio2/sources/К016-017_01_Кеммер_Р1.11_Маг жизни в авиачасти не требуется нобларина.mp3",
     "sha256": "8175b780b17d7d1f7a2489ff0f01c21660b15e43744c8fdca2dfd141f5cc5bab",
     "note": "",
     "segments": [
       {
         "frame": "016",
-        "recording_code": "К006",
-        "start_seconds": 0,
-        "end_seconds": 13.329093,
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 13.32,
+        "timeline_start_frame": 2608,
+        "timeline_end_frame": 2941,
         "text": "Маг жизни в авиачасти не требуется, нобларина Боллар. Вы же понимаете, что мои бойцы — лётчики? Кто вернулся на базу, тот в маге жизни не нуждается. А кто не вернулся — тот не вернулся.",
-        "playback_file": "audio/audio2/a2-007-stanislav-011922-k006.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К016_01_Кеммер_Маг жизни в авиачасти не требуется нобларина.wav"
       },
       {
         "frame": "017",
-        "recording_code": "К007",
-        "start_seconds": 13.329093,
+        "line_number": 1,
+        "start_seconds": 13.32,
         "end_seconds": 36.88,
+        "timeline_start_frame": 2941,
+        "timeline_end_frame": 3530,
         "text": "Тех нескольких раненых, что появлялись за последние годы, мы благополучно довозили до ближайшего гарнизонного госпиталя, он находится всего в часе езды на магомобиле. Если учесть, что навыками первой медицинской и магической помощи обладают все пилоты и служащие, то я с уверенностью могу заявить: необразованный и некомпетентный маг жизни принесёт намного больше пользы в другом месте.",
-        "playback_file": "audio/audio2/a2-007-stanislav-011922-k007.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К017_01_Кеммер_Тех нескольких раненых что появлялись за последние.wav"
       }
     ],
     "recognition_segments": [
@@ -1498,11 +1544,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_19_22_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 1770240,
+    "decoded_seconds": 36.88,
+    "selected": true,
+    "filename": "К016-017_01_Кеммер_Р1.11_Маг жизни в авиачасти не требуется нобларина.mp3"
   },
   {
     "id": "audio2-008",
-    "source_filename": "ElevenLabs_2026-10-28T01_22_09_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К018_02_Кеммер_Р1.13_Видел Но на них же неспроста нужна.mp3",
     "source_time": "01:22:09",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -1511,17 +1562,19 @@
     "canonical_text": "Видел. Но на них же неспроста нужна моя подпись, нобларина Боллар. Я должен одобрить вашу кандидатуру, чего не случится ни при каких обстоятельствах.",
     "recognized_text": "Видел, но на них же неспроста нужна моя подпись, наблорина Боллар. Я должен надобрить вашу кандидатуру, чего не случится непри каких обстоятельствах.",
     "duration_seconds": 10.32,
-    "file": "audio/audio2/a2-008-stanislav-012209.mp3",
+    "file": "audio/audio2/sources/К018_02_Кеммер_Р1.13_Видел Но на них же неспроста нужна.mp3",
     "sha256": "0fd790510d200525c81a951c80c33e2808ac28fa962e22096a7dcb863c46e765",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": "К008",
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 10.32,
+        "timeline_start_frame": 3657,
+        "timeline_end_frame": 3915,
         "text": "Видел. Но на них же неспроста нужна моя подпись, нобларина Боллар. Я должен одобрить вашу кандидатуру, чего не случится ни при каких обстоятельствах.",
-        "playback_file": "audio/audio2/a2-008-stanislav-012209.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_02_Кеммер_Видел Но на них же неспроста нужна.wav"
       }
     ],
     "recognition_segments": [
@@ -1673,11 +1726,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_22_09_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 495360,
+    "decoded_seconds": 10.32,
+    "selected": true,
+    "filename": "К018_02_Кеммер_Р1.13_Видел Но на них же неспроста нужна.mp3"
   },
   {
     "id": "audio2-009",
-    "source_filename": "ElevenLabs_2026-10-28T01_22_53_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К018_04_Кеммер_Р1.15_Нет.mp3",
     "source_time": "01:22:53",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -1686,17 +1744,19 @@
     "canonical_text": "Нет!",
     "recognized_text": "Мет.",
     "duration_seconds": 1.28,
-    "file": "audio/audio2/a2-009-stanislav-012253.mp3",
+    "file": "audio/audio2/sources/К018_04_Кеммер_Р1.15_Нет.mp3",
     "sha256": "e7f2fc7b1b7f4f402678246266d554406fb0776b4bac73f61a053f0997bef9ff",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": "К009",
-        "start_seconds": 0,
+        "line_number": 4,
+        "start_seconds": 0.0,
         "end_seconds": 1.28,
+        "timeline_start_frame": 3957,
+        "timeline_end_frame": 3989,
         "text": "Нет!",
-        "playback_file": "audio/audio2/a2-009-stanislav-012253.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_04_Кеммер_Нет.wav"
       }
     ],
     "recognition_segments": [
@@ -1714,11 +1774,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_22_53_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 61440,
+    "decoded_seconds": 1.28,
+    "selected": true,
+    "filename": "К018_04_Кеммер_Р1.15_Нет.mp3"
   },
   {
     "id": "audio2-010",
-    "source_filename": "ElevenLabs_2026-10-28T01_24_23_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К018_06_Кеммер_Р1.17_Только через мой труп.mp3",
     "source_time": "01:24:23",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -1727,17 +1792,19 @@
     "canonical_text": "Только через мой труп.",
     "recognized_text": "Только через мой труб.",
     "duration_seconds": 2.16,
-    "file": "audio/audio2/a2-010-stanislav-012423.mp3",
+    "file": "audio/audio2/sources/К018_06_Кеммер_Р1.17_Только через мой труп.mp3",
     "sha256": "4360c053864008209221f63a5a3838bd4b98adb9d4c1c1815007b5d1aee96632",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": "К010",
-        "start_seconds": 0,
+        "line_number": 6,
+        "start_seconds": 0.0,
         "end_seconds": 2.16,
+        "timeline_start_frame": 4034,
+        "timeline_end_frame": 4088,
         "text": "Только через мой труп.",
-        "playback_file": "audio/audio2/a2-010-stanislav-012423.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_06_Кеммер_Только через мой труп.wav"
       }
     ],
     "recognition_segments": [
@@ -1773,11 +1840,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_24_23_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 103680,
+    "decoded_seconds": 2.16,
+    "selected": true,
+    "filename": "К018_06_Кеммер_Р1.17_Только через мой труп.mp3"
   },
   {
     "id": "audio2-011",
-    "source_filename": "ElevenLabs_2026-10-28T01_26_54_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К020_01_Кеммер_Р1.20_Что вы нобларина Боллар я ничего не.mp3",
     "source_time": "01:26:54",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -1786,17 +1858,19 @@
     "canonical_text": "Что вы, нобларина Боллар, я ничего не имею против вашего рода, а его дела меня никак не касаются. Кроме того, с моей стороны было бы крайне мелочно отказывать вам по этой причине. В моей части служат пилоты из разных семей, и далеко не со всеми из них Блайнеры в хороших отношениях.",
     "recognized_text": "Что вы, на Блорина Боллар, я ничего не имею против вашего рода, а его дела меня никак не касаются. Кроме того, своей стороны было бы крайне мелочно отказывать вам по этой причине. В моей части служат пилоты из разных семей, и далеко не со всеми из них, блайнеры в хороших отношениях.",
     "duration_seconds": 18.64,
-    "file": "audio/audio2/a2-011-stanislav-012654.mp3",
+    "file": "audio/audio2/sources/К020_01_Кеммер_Р1.20_Что вы нобларина Боллар я ничего не.mp3",
     "sha256": "16ee8b2f85e88c1754d43bd6a7ae4f3fc1bf8a73a7b9b83becc9896d1a59a8c9",
     "note": "",
     "segments": [
       {
         "frame": "020",
-        "recording_code": "К011",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 18.64,
+        "timeline_start_frame": 5616,
+        "timeline_end_frame": 6082,
         "text": "Что вы, нобларина Боллар, я ничего не имею против вашего рода, а его дела меня никак не касаются. Кроме того, с моей стороны было бы крайне мелочно отказывать вам по этой причине. В моей части служат пилоты из разных семей, и далеко не со всеми из них Блайнеры в хороших отношениях.",
-        "playback_file": "audio/audio2/a2-011-stanislav-012654.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К020_01_Кеммер_Что вы нобларина Боллар я ничего не.wav"
       }
     ],
     "recognition_segments": [
@@ -2130,11 +2204,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_26_54_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 894720,
+    "decoded_seconds": 18.64,
+    "selected": true,
+    "filename": "К020_01_Кеммер_Р1.20_Что вы нобларина Боллар я ничего не.mp3"
   },
   {
     "id": "audio2-012",
-    "source_filename": "ElevenLabs_2026-10-28T01_28_10_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К028_01_Кеммер_Р2.01_Я отказываю вам из-за отсутствия надлежащего опыта.mp3",
     "source_time": "01:28:10",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2143,17 +2222,19 @@
     "canonical_text": "Я отказываю вам из-за отсутствия надлежащего опыта и образования.",
     "recognized_text": "Я отказываю вам из-за отсутствие надлежащего опыта и образования.",
     "duration_seconds": 4.64,
-    "file": "audio/audio2/a2-012-stanislav-012810.mp3",
+    "file": "audio/audio2/sources/К028_01_Кеммер_Р2.01_Я отказываю вам из-за отсутствия надлежащего опыта.mp3",
     "sha256": "f440cdc2bbc52e11b9beeb4736c5a2eab65ac962d037cb0ca6ad71d4db805061",
     "note": "",
     "segments": [
       {
         "frame": "028",
-        "recording_code": "К015",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.64,
+        "timeline_start_frame": 7019,
+        "timeline_end_frame": 7135,
         "text": "Я отказываю вам из-за отсутствия надлежащего опыта и образования.",
-        "playback_file": "audio/audio2/a2-012-stanislav-012810.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К028_01_Кеммер_Я отказываю вам из-за отсутствия надлежащего опыта.wav"
       }
     ],
     "recognition_segments": [
@@ -2225,11 +2306,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_28_10_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 222720,
+    "decoded_seconds": 4.64,
+    "selected": true,
+    "filename": "К028_01_Кеммер_Р2.01_Я отказываю вам из-за отсутствия надлежащего опыта.mp3"
   },
   {
     "id": "audio2-013",
-    "source_filename": "ElevenLabs_2026-10-28T01_31_47_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К030_01_Кеммер_Р2.03_Вот и отправляйтесь ассистировать ему дальше А.mp3",
     "source_time": "01:31:47",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2238,17 +2324,19 @@
     "canonical_text": "Вот и отправляйтесь ассистировать ему дальше. А мне целитель не нужен.",
     "recognized_text": "Вот отправляйтесь осистировать ему дальше, а мне целитель не нужен.",
     "duration_seconds": 4.32,
-    "file": "audio/audio2/a2-013-stanislav-013147.mp3",
+    "file": "audio/audio2/sources/К030_01_Кеммер_Р2.03_Вот и отправляйтесь ассистировать ему дальше А.mp3",
     "sha256": "2cf2afdf1dda6012b795c1876ae5be3622dcee83e8fa1bad6e9d176a3a9256f4",
     "note": "",
     "segments": [
       {
         "frame": "030",
-        "recording_code": "К016",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.32,
+        "timeline_start_frame": 7309,
+        "timeline_end_frame": 7417,
         "text": "Вот и отправляйтесь ассистировать ему дальше. А мне целитель не нужен.",
-        "playback_file": "audio/audio2/a2-013-stanislav-013147.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К030_01_Кеммер_Вот и отправляйтесь ассистировать ему дальше А.wav"
       }
     ],
     "recognition_segments": [
@@ -2320,11 +2408,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_31_47_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 207360,
+    "decoded_seconds": 4.32,
+    "selected": true,
+    "filename": "К030_01_Кеммер_Р2.03_Вот и отправляйтесь ассистировать ему дальше А.mp3"
   },
   {
     "id": "audio2-014",
-    "source_filename": "ElevenLabs_2026-10-28T01_34_47_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К032_01_Кеммер_Р2.05_Нет Ваша принадлежность к роду Болларов тут.mp3",
     "source_time": "01:34:47",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2333,17 +2426,19 @@
     "canonical_text": "Нет. Ваша принадлежность к роду Болларов тут ни при чём.",
     "recognized_text": "Нет. Ваше принадлежность к роду Болларов тут не при чем.",
     "duration_seconds": 4.72,
-    "file": "audio/audio2/a2-014-stanislav-013447.mp3",
+    "file": "audio/audio2/sources/К032_01_Кеммер_Р2.05_Нет Ваша принадлежность к роду Болларов тут.mp3",
     "sha256": "eb688c1f41bce55ff5dd653a84d9d508fd2fb013d8b87152e4019038a5d2f588",
     "note": "",
     "segments": [
       {
         "frame": "032",
-        "recording_code": "К017",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.72,
+        "timeline_start_frame": 8047,
+        "timeline_end_frame": 8165,
         "text": "Нет. Ваша принадлежность к роду Болларов тут ни при чём.",
-        "playback_file": "audio/audio2/a2-014-stanislav-013447.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К032_01_Кеммер_Нет Ваша принадлежность к роду Болларов тут.wav"
       }
     ],
     "recognition_segments": [
@@ -2415,11 +2510,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_34_47_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 226560,
+    "decoded_seconds": 4.72,
+    "selected": true,
+    "filename": "К032_01_Кеммер_Р2.05_Нет Ваша принадлежность к роду Болларов тут.mp3"
   },
   {
     "id": "audio2-015",
-    "source_filename": "ElevenLabs_2026-10-28T01_35_08_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К036_01_Кеммер_Р2.07_Я напишу отказ от вашей кандидатуры Пусть.mp3",
     "source_time": "01:35:08",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2428,17 +2528,19 @@
     "canonical_text": "Я напишу отказ от вашей кандидатуры. Пусть вас распределят в другое место.",
     "recognized_text": "Я напишу отказ от вашей кандидатуры. Пусть вас распределяют в другое место.",
     "duration_seconds": 4.8,
-    "file": "audio/audio2/a2-015-stanislav-013508.mp3",
+    "file": "audio/audio2/sources/К036_01_Кеммер_Р2.07_Я напишу отказ от вашей кандидатуры Пусть.mp3",
     "sha256": "b530cd4d99fba6c2fb6f3f4cf987bf0194f8322aefbfa86e6b0e45b5fc66b518",
     "note": "",
     "segments": [
       {
         "frame": "036",
-        "recording_code": "К020",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.8,
+        "timeline_start_frame": 8587,
+        "timeline_end_frame": 8707,
         "text": "Я напишу отказ от вашей кандидатуры. Пусть вас распределят в другое место.",
-        "playback_file": "audio/audio2/a2-015-stanislav-013508.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К036_01_Кеммер_Я напишу отказ от вашей кандидатуры Пусть.wav"
       }
     ],
     "recognition_segments": [
@@ -2522,11 +2624,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_35_08_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 230400,
+    "decoded_seconds": 4.8,
+    "selected": true,
+    "filename": "К036_01_Кеммер_Р2.07_Я напишу отказ от вашей кандидатуры Пусть.mp3"
   },
   {
     "id": "audio2-016",
-    "source_filename": "ElevenLabs_2026-10-28T01_35_28_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К037_02_Кеммер_Р2.09_В таком случае я буду вынужден вывести.mp3",
     "source_time": "01:35:28",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2535,17 +2642,19 @@
     "canonical_text": "В таком случае я буду вынужден вывести вас с охраной и сделать отметку о неподчинении в вашем деле. У меня, знаете ли, есть реальная работа, помимо того, чтобы вам сопли кружевным платочком вытирать.",
     "recognized_text": "В таком случае я буду вынужден вывести вас с сохраной и сделать отметку они подчинений в вашем деле. У меня знаете ли, есть реальные работы, помимо того, чтобы вам сопли кружевным плоточкам вытирать.",
     "duration_seconds": 11.52,
-    "file": "audio/audio2/a2-016-stanislav-013528.mp3",
+    "file": "audio/audio2/sources/К037_02_Кеммер_Р2.09_В таком случае я буду вынужден вывести.mp3",
     "sha256": "eee307ebc3bf03beeb56a70250cb9922cafb1c16b97950ef79cf3d18a25a2c1a",
     "note": "",
     "segments": [
       {
         "frame": "037",
-        "recording_code": "К021",
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 11.52,
+        "timeline_start_frame": 9046,
+        "timeline_end_frame": 9334,
         "text": "В таком случае я буду вынужден вывести вас с охраной и сделать отметку о неподчинении в вашем деле. У меня, знаете ли, есть реальная работа, помимо того, чтобы вам сопли кружевным платочком вытирать.",
-        "playback_file": "audio/audio2/a2-016-stanislav-013528.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К037_02_Кеммер_В таком случае я буду вынужден вывести.wav"
       }
     ],
     "recognition_segments": [
@@ -2763,11 +2872,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T01_35_28_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 552960,
+    "decoded_seconds": 11.52,
+    "selected": true,
+    "filename": "К037_02_Кеммер_Р2.09_В таком случае я буду вынужден вывести.mp3"
   },
   {
     "id": "audio2-017",
-    "source_filename": "ElevenLabs_2026-10-28T06_06_39_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К043-045_01_Кеммер_Р3.02_Нобларина Боллар вот ваш отказ Приятной дороги.mp3",
     "source_time": "06:06:39",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2776,25 +2890,29 @@
     "canonical_text": "Нобларина Боллар, вот ваш отказ. Приятной дороги обратно в Кербе́нн и надеюсь больше никогда вас не увидеть.",
     "recognized_text": "Нобларина Боллар, вот ваше отказ. Приятные дороги обратно в Кербенн, и надеюсь, больше никогда вас не увидеть.",
     "duration_seconds": 7.36,
-    "file": "audio/audio2/a2-017-stanislav-060639.mp3",
+    "file": "audio/audio2/sources/К043-045_01_Кеммер_Р3.02_Нобларина Боллар вот ваш отказ Приятной дороги.mp3",
     "sha256": "2f5802bafb46e818302e67b7267fc54272342fa9c113c860688120d8577d5c40",
     "note": "",
     "segments": [
       {
         "frame": "043",
-        "recording_code": "К023",
-        "start_seconds": 0,
-        "end_seconds": 2.756145,
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 2.76,
+        "timeline_start_frame": 10339,
+        "timeline_end_frame": 10408,
         "text": "Нобларина Боллар, вот ваш отказ.",
-        "playback_file": "audio/audio2/a2-017-stanislav-060639-k023.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К043_01_Кеммер_Нобларина Боллар вот ваш отказ.wav"
       },
       {
         "frame": "045",
-        "recording_code": "К024",
-        "start_seconds": 2.756145,
+        "line_number": 1,
+        "start_seconds": 2.76,
         "end_seconds": 7.36,
+        "timeline_start_frame": 10504,
+        "timeline_end_frame": 10619,
         "text": "Приятной дороги обратно в Кербе́нн и надеюсь больше никогда вас не увидеть.",
-        "playback_file": "audio/audio2/a2-017-stanislav-060639-k024.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К045_01_Кеммер_Приятной дороги обратно в Кербенн и надеюсь.wav"
       }
     ],
     "recognition_segments": [
@@ -2908,11 +3026,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_06_39_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 353280,
+    "decoded_seconds": 7.36,
+    "selected": true,
+    "filename": "К043-045_01_Кеммер_Р3.02_Нобларина Боллар вот ваш отказ Приятной дороги.mp3"
   },
   {
     "id": "audio2-018",
-    "source_filename": "ElevenLabs_2026-10-28T06_07_22_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К047_01_Кеммер_Р3.04_Я не обязан ничего вам объяснять И.mp3",
     "source_time": "06:07:22",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -2921,17 +3044,19 @@
     "canonical_text": "Я не обязан ничего вам объяснять. И ваше упрямство лишь подтверждает мою правоту. Командор никому не растолковывает своих приказов, он их отдаёт и ожидает беспрекословного подчинения. А за неподчинение ещё и наказывает. Вы явно не понимаете, чем военная часть отличается от гражданской жизни, а значит, к службе не готовы.",
     "recognized_text": "Я не обязан ничего вам объяснять. И ваше упрямство лишь подтверждает мою правоту. Командур никому не рассталковывает своих приказов, он их отдает и ожидает бесприкословного подчинения, а за не подчинение еще и наказывает. Вы явно не понимаете, чем военная часть отличается от гражданской жизни, а значит, к службе не готовы.",
     "duration_seconds": 21.2,
-    "file": "audio/audio2/a2-018-stanislav-060722.mp3",
+    "file": "audio/audio2/sources/К047_01_Кеммер_Р3.04_Я не обязан ничего вам объяснять И.mp3",
     "sha256": "4b6a4659fe5fa11b4c4beebe81b81b5951291d9c861282593b0fa1a3591ba170",
     "note": "",
     "segments": [
       {
         "frame": "047",
-        "recording_code": "К025",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 21.2,
+        "timeline_start_frame": 10821,
+        "timeline_end_frame": 11351,
         "text": "Я не обязан ничего вам объяснять. И ваше упрямство лишь подтверждает мою правоту. Командор никому не растолковывает своих приказов, он их отдаёт и ожидает беспрекословного подчинения. А за неподчинение ещё и наказывает. Вы явно не понимаете, чем военная часть отличается от гражданской жизни, а значит, к службе не готовы.",
-        "playback_file": "audio/audio2/a2-018-stanislav-060722.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К047_01_Кеммер_Я не обязан ничего вам объяснять И.wav"
       }
     ],
     "recognition_segments": [
@@ -3267,11 +3392,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_07_22_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 1017600,
+    "decoded_seconds": 21.2,
+    "selected": true,
+    "filename": "К047_01_Кеммер_Р3.04_Я не обязан ничего вам объяснять И.mp3"
   },
   {
     "id": "audio2-019",
-    "source_filename": "ElevenLabs_2026-10-28T06_08_57_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К049_01_Кеммер_Р3.06_О какой симпатии вы ведёте речь нобларина.mp3",
     "source_time": "06:08:57",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -3280,17 +3410,19 @@
     "canonical_text": "О какой симпатии вы ведёте речь, нобларина Боллар? Или надеялись получить должность благодаря хорошенькому личику? Как видите, не вышло. Берите отказ и уходите.",
     "recognized_text": "А какой симпатий выведет и речь, на Блорина Боллар, или надеялись поучить должность благодаря хорошеньким уличку? Как видите, не вышло. Берите отказ и уходите.",
     "duration_seconds": 10.88,
-    "file": "audio/audio2/a2-019-stanislav-060857.mp3",
+    "file": "audio/audio2/sources/К049_01_Кеммер_Р3.06_О какой симпатии вы ведёте речь нобларина.mp3",
     "sha256": "274bb696d9eb1a93fdcbd3e7521824b4612ff929cdd40d9e5809a73df48e3cfb",
     "note": "",
     "segments": [
       {
         "frame": "049",
-        "recording_code": "К026",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 10.88,
+        "timeline_start_frame": 11660,
+        "timeline_end_frame": 11932,
         "text": "О какой симпатии вы ведёте речь, нобларина Боллар? Или надеялись получить должность благодаря хорошенькому личику? Как видите, не вышло. Берите отказ и уходите.",
-        "playback_file": "audio/audio2/a2-019-stanislav-060857.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К049_01_Кеммер_О какой симпатии вы ведёте речь нобларина.wav"
       }
     ],
     "recognition_segments": [
@@ -3446,11 +3578,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_08_57_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 522240,
+    "decoded_seconds": 10.88,
+    "selected": true,
+    "filename": "К049_01_Кеммер_Р3.06_О какой симпатии вы ведёте речь нобларина.mp3"
   },
   {
     "id": "audio2-020",
-    "source_filename": "ElevenLabs_2026-10-28T06_09_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К052-053_01_Кеммер_Р3.08_Вы ничего не сможете поделать с причинами.mp3",
     "source_time": "06:09:44",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -3459,25 +3596,29 @@
     "canonical_text": "Вы ничего не сможете поделать с причинами отказа, нобларина Боллар. Я отказываю вам из-за вашей внешности и вашего проклятия.",
     "recognized_text": "Вы ничего не сможете поделать с причинами отказа, на Блорина Боллар. Я отказываю вам из-за вашей внешности и вашего проклятия.",
     "duration_seconds": 8.48,
-    "file": "audio/audio2/a2-020-stanislav-060944.mp3",
+    "file": "audio/audio2/sources/К052-053_01_Кеммер_Р3.08_Вы ничего не сможете поделать с причинами.mp3",
     "sha256": "1c3dfd505a35ebf3e295e9ddec2e6c4ecb08a218e65e6f9e96a4eab93578ce26",
     "note": "",
     "segments": [
       {
         "frame": "052",
-        "recording_code": "К027",
-        "start_seconds": 0,
-        "end_seconds": 4.3132425,
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.32,
+        "timeline_start_frame": 12362,
+        "timeline_end_frame": 12470,
         "text": "Вы ничего не сможете поделать с причинами отказа, нобларина Боллар.",
-        "playback_file": "audio/audio2/a2-020-stanislav-060944-k027.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К052_01_Кеммер_Вы ничего не сможете поделать с причинами.wav"
       },
       {
         "frame": "053",
-        "recording_code": "К028",
-        "start_seconds": 4.3132425,
+        "line_number": 1,
+        "start_seconds": 4.32,
         "end_seconds": 8.48,
+        "timeline_start_frame": 12470,
+        "timeline_end_frame": 12574,
         "text": "Я отказываю вам из-за вашей внешности и вашего проклятия.",
-        "playback_file": "audio/audio2/a2-020-stanislav-060944-k028.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К053_01_Кеммер_Я отказываю вам из-за вашей внешности и.wav"
       }
     ],
     "recognition_segments": [
@@ -3623,11 +3764,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_09_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 407040,
+    "decoded_seconds": 8.48,
+    "selected": true,
+    "filename": "К052-053_01_Кеммер_Р3.08_Вы ничего не сможете поделать с причинами.mp3"
   },
   {
     "id": "audio2-021",
-    "source_filename": "ElevenLabs_2026-10-28T06_10_24_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К054_02_Кеммер_Р3.10_Ошибаетесь нобларина Боллар Меня касается абсолютно всё.mp3",
     "source_time": "06:10:24",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -3636,17 +3782,19 @@
     "canonical_text": "Ошибаетесь, нобларина Боллар. Меня касается абсолютно всё, что происходит в моей части.",
     "recognized_text": "Ошибаетесь, но Блорина Боллар, меня касается абсолютно все, что происходит в моей части.",
     "duration_seconds": 6.56,
-    "file": "audio/audio2/a2-021-stanislav-061024.mp3",
+    "file": "audio/audio2/sources/К054_02_Кеммер_Р3.10_Ошибаетесь нобларина Боллар Меня касается абсолютно всё.mp3",
     "sha256": "65916d886133e7845df2082ccfa171d38e793b8f5911df0eb361409e2c9753a1",
     "note": "",
     "segments": [
       {
         "frame": "054",
-        "recording_code": "К029",
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 6.56,
+        "timeline_start_frame": 12942,
+        "timeline_end_frame": 13106,
         "text": "Ошибаетесь, нобларина Боллар. Меня касается абсолютно всё, что происходит в моей части.",
-        "playback_file": "audio/audio2/a2-021-stanislav-061024.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К054_02_Кеммер_Ошибаетесь нобларина Боллар Меня касается абсолютно всё.wav"
       }
     ],
     "recognition_segments": [
@@ -3736,11 +3884,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_10_24_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 314880,
+    "decoded_seconds": 6.56,
+    "selected": true,
+    "filename": "К054_02_Кеммер_Р3.10_Ошибаетесь нобларина Боллар Меня касается абсолютно всё.mp3"
   },
   {
     "id": "audio2-022",
-    "source_filename": "ElevenLabs_2026-10-28T06_12_17_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К055_01_Кеммер_Р3.12_Видит Геста я хотел уберечь вас от.mp3",
     "source_time": "06:12:17",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -3749,17 +3902,19 @@
     "canonical_text": "Видит Геста, я хотел уберечь вас от неприятных подробностей, но раз вы так настаиваете, то наслаждайтесь. Из-за вашего проклятья, нобларина Боллар, на вас никто никогда не женится. Никто и никогда. Потому что никому не хочется умереть в ночь бракосочетания с вами, думаю, это и так очевидно. Вероятно, вы хотите попасть на должность гарнизонной целительницы, чтобы уговорить одного из смертельно раненных бойцов жениться на вас. Что ж, это недурной план, и я бы на вашем месте именно так и поступил.",
     "recognized_text": "Видит Геста, я хотел уберечь вас от неприятных подробностей, но раз вы так настаиваете, то наслаждайтесь. Из-за вашего проклятия, набларина Боллар, на вас никто никогда не жениться. Никто и никогда. Потому что никому не хочется умереть в ночь брака сочетания с вами. Думаю, это и так, очевидно. Вероятно, вы хотите попасть на должность гарнизонной целительницы, чтобы уговорить одного из смертельна раненых бойцов в жениться на вас. Что ж, это не дурной план, и я бы на вашем месте именно так и поступил.",
     "duration_seconds": 32.8,
-    "file": "audio/audio2/a2-022-stanislav-061217.mp3",
+    "file": "audio/audio2/sources/К055_01_Кеммер_Р3.12_Видит Геста я хотел уберечь вас от.mp3",
     "sha256": "e4b4ba0a2192ade2a5cc7a31edb106f7d0ef46f40e1358cf7bd4aa0e71327709",
     "note": "",
     "segments": [
       {
         "frame": "055",
-        "recording_code": "К030",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 32.8,
+        "timeline_start_frame": 13219,
+        "timeline_end_frame": 14039,
         "text": "Видит Геста, я хотел уберечь вас от неприятных подробностей, но раз вы так настаиваете, то наслаждайтесь. Из-за вашего проклятья, нобларина Боллар, на вас никто никогда не женится. Никто и никогда. Потому что никому не хочется умереть в ночь бракосочетания с вами, думаю, это и так очевидно. Вероятно, вы хотите попасть на должность гарнизонной целительницы, чтобы уговорить одного из смертельно раненных бойцов жениться на вас. Что ж, это недурной план, и я бы на вашем месте именно так и поступил.",
-        "playback_file": "audio/audio2/a2-022-stanislav-061217.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К055_01_Кеммер_Видит Геста я хотел уберечь вас от.wav"
       }
     ],
     "recognition_segments": [
@@ -4301,11 +4456,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_12_17_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 1574400,
+    "decoded_seconds": 32.8,
+    "selected": true,
+    "filename": "К055_01_Кеммер_Р3.12_Видит Геста я хотел уберечь вас от.mp3"
   },
   {
     "id": "audio2-023",
-    "source_filename": "ElevenLabs_2026-10-28T06_17_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4(1).mp3",
+    "source_filename": "К057_01_Кеммер_Р3.14_Тем хуже для вас Но это не.mp3",
     "source_time": "06:17:44",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -4314,17 +4474,19 @@
     "canonical_text": "Тем хуже для вас. Но это не отменяет того факта, что в моей части лёгкой добычи для вас не будет. Для этого вам стоит работать на передовой. Тем не менее это не основная причина отказа. Если бы вы могли вступить в брак, я бы взял вас без единого возражения. Уже через месяц вы бы выскочили замуж и перестали быть моей проблемой, даже если бы остались жить в гарнизоне. Вы стали бы проблемой мужа. В моём подчинении служат преимущественно аристократы, и никто из них не будет осквернять свою репутацию ухаживаниями за чужой женой. Но вы вступить в брак не можете и не сможете в обозримом будущем, и тогда в полный рост встаёт вторая проблема — вы приторно красивы.",
     "recognized_text": "Тем хуже для вас. Но это не отменяет того факта, что в моей части легкой добычит для вас не будет. Для этого вам стоит работать на передовой. Тем не менее, это не основная причина отказа. Если бы вы могли вступить в брак, я бы взял вас без единого возражения. Уже через месяц вы бы выскачили замуж и перестали быть моей проблемы, даже если бы остались жить в гарнизоне. Вы стали бы проблемы и мужа. В моем починении служит преимущественно арестократы. И никто из них не будет осквернять свою репутацию ухаживаниями за чужой женой, но вы вступить в брак не можете и не сможете в обозримом будущем и тогда в полный рост встает вторая проблема. Вы приторно красивы.",
     "duration_seconds": 43.84,
-    "file": "audio/audio2/a2-023-stanislav-061744.mp3",
+    "file": "audio/audio2/sources/К057_01_Кеммер_Р3.14_Тем хуже для вас Но это не.mp3",
     "sha256": "32d1cd479b415fee318ce7c42e858056d8e40b78074d6cd97d08d272b7573074",
     "note": "",
     "segments": [
       {
         "frame": "057",
-        "recording_code": "К031",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 43.84,
+        "timeline_start_frame": 14576,
+        "timeline_end_frame": 15672,
         "text": "Тем хуже для вас. Но это не отменяет того факта, что в моей части лёгкой добычи для вас не будет. Для этого вам стоит работать на передовой. Тем не менее это не основная причина отказа. Если бы вы могли вступить в брак, я бы взял вас без единого возражения. Уже через месяц вы бы выскочили замуж и перестали быть моей проблемой, даже если бы остались жить в гарнизоне. Вы стали бы проблемой мужа. В моём подчинении служат преимущественно аристократы, и никто из них не будет осквернять свою репутацию ухаживаниями за чужой женой. Но вы вступить в брак не можете и не сможете в обозримом будущем, и тогда в полный рост встаёт вторая проблема — вы приторно красивы.",
-        "playback_file": "audio/audio2/a2-023-stanislav-061744.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К057_01_Кеммер_Тем хуже для вас Но это не.wav"
       }
     ],
     "recognition_segments": [
@@ -5046,11 +5208,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_17_44_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4(1).mp3",
+    "decoded_samples": 2104320,
+    "decoded_seconds": 43.84,
+    "selected": true,
+    "filename": "К057_01_Кеммер_Р3.14_Тем хуже для вас Но это не.mp3"
   },
   {
     "id": "audio2-024",
-    "source_filename": "ElevenLabs_2026-10-28T06_21_16_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К058_01_Кеммер_Р3.16_Вы не только упрямы но ещё и.mp3",
     "source_time": "06:21:16",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -5059,17 +5226,19 @@
     "canonical_text": "Вы не только упрямы, но ещё и недалёки? Отвратительное сочетание качеств. У меня в части больше сотни неженатых военнослужащих, нобларина Боллар, и если я позволю вам здесь работать, то случится несколько вещей. Сначала добрая половина эскадрильи обязательно придумает или организует себе какую-нибудь болезнь или травму, просто чтобы попасть к вам на приём. А так как слепых в пилоты и механики не берут, каждому болезному вы непременно понравитесь, следовательно, недуги и травмы мистическим образом станут повторяться снова и снова, и значит, часть личного состава перманентно пропишется на больничных койках. А дальше неизменно начнут возникать конфликты, споры, дуэли и прочие сомнительные для начальника части радости, которых я столь успешно умудряюсь сейчас избегать… потому что пожилые кухарки не пользуются большим спросом, а прачек я беру исключительно замужних. Знаете, что случится потом?",
     "recognized_text": "Вы не только упрямы, но еще и недалеки, отвратительное сочетание качества. У меня в части больше сотни не женатых война служащих, набларина Боллар. И если я позволю вам здесь работать, то случится несколько вещей. Сначала добрые половины из кадрии обязательно придумает или организуют себе какую-нибудь болезнь или травму. Просто чтобы попасть к вам напрям. А так как слепых в пилот и механики не берут, каждому болезному вы не примен на понравитесь. Следовательно, недугие травмы, мистическим образом, станут повторяться снова и снова. И значит, часть личного состава пермонентно пропишется на больничных койках. А дальше неизменно начнут возникать конфликты, споры, дуэли и прочие, сомнительные для начальника части радости, которых я столь успешно умудряю сейчас избегать, потому что пожалуй и кухарки не пользуются большим спросом, а прочик я беру исключительно замужних. Знаете, что случится потом?",
     "duration_seconds": 56.96,
-    "file": "audio/audio2/a2-024-stanislav-062116.mp3",
+    "file": "audio/audio2/sources/К058_01_Кеммер_Р3.16_Вы не только упрямы но ещё и.mp3",
     "sha256": "db47550bfbe3169ea704c1475ff4bf1db8140161bdfabfe6ca760a8b301d3340",
     "note": "",
     "segments": [
       {
         "frame": "058",
-        "recording_code": "К032",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 56.96,
+        "timeline_start_frame": 15806,
+        "timeline_end_frame": 17230,
         "text": "Вы не только упрямы, но ещё и недалёки? Отвратительное сочетание качеств. У меня в части больше сотни неженатых военнослужащих, нобларина Боллар, и если я позволю вам здесь работать, то случится несколько вещей. Сначала добрая половина эскадрильи обязательно придумает или организует себе какую-нибудь болезнь или травму, просто чтобы попасть к вам на приём. А так как слепых в пилоты и механики не берут, каждому болезному вы непременно понравитесь, следовательно, недуги и травмы мистическим образом станут повторяться снова и снова, и значит, часть личного состава перманентно пропишется на больничных койках. А дальше неизменно начнут возникать конфликты, споры, дуэли и прочие сомнительные для начальника части радости, которых я столь успешно умудряюсь сейчас избегать… потому что пожилые кухарки не пользуются большим спросом, а прачек я беру исключительно замужних. Знаете, что случится потом?",
-        "playback_file": "audio/audio2/a2-024-stanislav-062116.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К058_01_Кеммер_Вы не только упрямы но ещё и.wav"
       }
     ],
     "recognition_segments": [
@@ -5967,11 +6136,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_21_16_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 2734080,
+    "decoded_seconds": 56.96,
+    "selected": true,
+    "filename": "К058_01_Кеммер_Р3.16_Вы не только упрямы но ещё и.mp3"
   },
   {
     "id": "audio2-025",
-    "source_filename": "ElevenLabs_2026-10-28T06_25_07_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К059_01_Кеммер_Р3.18_А дальше вы станете предметом пари и.mp3",
     "source_time": "06:25:07",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -5980,17 +6154,19 @@
     "canonical_text": "А дальше вы станете предметом пари и охоты. На вас обрушат признания, подарки и ухаживания, которых вы никогда раньше не видели. Вам будут петь песни, посвящать стихи и говорить слова, от которых закружится голова. Если вы не сдадитесь сразу, то ухаживания станут очень настойчивыми, и вы сначала будете бегать ко мне, чтобы я приструнил своих подчинённых, а затем сдадитесь под натиском особо симпатичного офицера. И когда вы всё же сдадитесь, то превратите мою часть в бордель, где в медицинский кабинет ходят за услугами условно медицинского характера. Потому что ни один аристократ не рискнёт продолжать связь с вами долго, а каждый последующий раз вы будете сдаваться всё быстрее и быстрее.",
     "recognized_text": "А дальше вы станете предметом пари и охоты. На вас обрушит признание, подарки и ухаживания, которых вы никогда раньше не видели. Вам будут петь песни, посвящать стихи и говорить слова, от которых закружится голова. Если вы не сдадитесь сразу, то ухаживание станут очень настойчивыми. И вы сначала будете бегать ко мне, чтобы я пристроен в своих подчинённых. А затем сдадитесь под натиском особы симпатичного офицера. И когда вы все же сдадитесь, то превратите мою часть в бардель, где медицинские кабинет ходят за услугами условно-медицинского характера. Потому что ни один арест ократ не рискнет продолжать связь с вами долго. А каждый последующий раз вы будете сдаваться все быстрее и быстрее.",
     "duration_seconds": 44.32,
-    "file": "audio/audio2/a2-025-stanislav-062507.mp3",
+    "file": "audio/audio2/sources/К059_01_Кеммер_Р3.18_А дальше вы станете предметом пари и.mp3",
     "sha256": "22b75c453cef54948bad15a31c21e1c4e2559dbdbf4a8dcaabcbb292b9c23f61",
     "note": "",
     "segments": [
       {
         "frame": "059",
-        "recording_code": "К033",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 44.32,
+        "timeline_start_frame": 17304,
+        "timeline_end_frame": 18412,
         "text": "А дальше вы станете предметом пари и охоты. На вас обрушат признания, подарки и ухаживания, которых вы никогда раньше не видели. Вам будут петь песни, посвящать стихи и говорить слова, от которых закружится голова. Если вы не сдадитесь сразу, то ухаживания станут очень настойчивыми, и вы сначала будете бегать ко мне, чтобы я приструнил своих подчинённых, а затем сдадитесь под натиском особо симпатичного офицера. И когда вы всё же сдадитесь, то превратите мою часть в бордель, где в медицинский кабинет ходят за услугами условно медицинского характера. Потому что ни один аристократ не рискнёт продолжать связь с вами долго, а каждый последующий раз вы будете сдаваться всё быстрее и быстрее.",
-        "playback_file": "audio/audio2/a2-025-stanislav-062507.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К059_01_Кеммер_А дальше вы станете предметом пари и.wav"
       }
     ],
     "recognition_segments": [
@@ -6734,11 +6910,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_25_07_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 2127360,
+    "decoded_seconds": 44.32,
+    "selected": true,
+    "filename": "К059_01_Кеммер_Р3.18_А дальше вы станете предметом пари и.mp3"
   },
   {
     "id": "audio2-026",
-    "source_filename": "ElevenLabs_2026-10-28T06_27_50_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К059_02_Кеммер_Р3.19_А теперь вопрос нобларина Боллар мне весь.mp3",
     "source_time": "06:27:50",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -6747,17 +6928,19 @@
     "canonical_text": "А теперь вопрос, нобларина Боллар: мне весь этот цирк зачем? Ради того, чтобы было кому вскрыть чирей повару или залечить флюс механику? Для этого я могу организовать транспорт до ближайшего госпиталя.",
     "recognized_text": "А теперь вопрос на Блорина Боллар. Мне весь этот цирк зачем? Ради того, чтобы было кому вскрыть чирей повору или залечить флюс механику, для этого я могу организовать транспорт даблежайшего госпитала.",
     "duration_seconds": 13.36,
-    "file": "audio/audio2/a2-026-stanislav-062750.mp3",
+    "file": "audio/audio2/sources/К059_02_Кеммер_Р3.19_А теперь вопрос нобларина Боллар мне весь.mp3",
     "sha256": "4647ba8ed1379853596dd6c6d45ee5e72c6bf046872a99d1fff3fb50dc18c8da",
     "note": "",
     "segments": [
       {
         "frame": "059",
-        "recording_code": "К034",
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 13.36,
+        "timeline_start_frame": 18424,
+        "timeline_end_frame": 18758,
         "text": "А теперь вопрос, нобларина Боллар: мне весь этот цирк зачем? Ради того, чтобы было кому вскрыть чирей повару или залечить флюс механику? Для этого я могу организовать транспорт до ближайшего госпиталя.",
-        "playback_file": "audio/audio2/a2-026-stanislav-062750.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К059_02_Кеммер_А теперь вопрос нобларина Боллар мне весь.wav"
       }
     ],
     "recognition_segments": [
@@ -6955,11 +7138,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_27_50_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 641280,
+    "decoded_seconds": 13.36,
+    "selected": true,
+    "filename": "К059_02_Кеммер_Р3.19_А теперь вопрос нобларина Боллар мне весь.mp3"
   },
   {
     "id": "audio2-027",
-    "source_filename": "ElevenLabs_2026-10-28T06_36_31_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К062-063_01_Кеммер_Р3.20_Изнеженным цветочкам не место в военной части.mp3",
     "source_time": "06:36:31",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -6968,33 +7156,39 @@
     "canonical_text": "Изнеженным цветочкам не место в военной части. Своей реакцией на правду вы показываете лишь то, что я твердил с самого начала: вы абсолютно некомпетентны для должности, на которую претендуете. А теперь берите свой отказ и уходите, нобларина Боллар, потому что иначе я буду вынужден написать рапорт о нападении на вышестоящего по званию офицера.",
     "recognized_text": "Изнеженнен цветочкам не места военные части. Свои реакции, на правду, вы показываете ли, что я отвердил с самого начала. Вы абсолютно некомпетентны для должности, на которую претендуйте. А теперь берите свой отказ и уходите на Блорина Боллар. Потому что иначе я буду вынужден написать рапорт, а нападение на высше стоящего позвоню офицера.",
     "duration_seconds": 22.08,
-    "file": "audio/audio2/a2-027-stanislav-063631.mp3",
+    "file": "audio/audio2/sources/К062-063_01_Кеммер_Р3.20_Изнеженным цветочкам не место в военной части.mp3",
     "sha256": "d762f247f1745210e4e53200f0db4e34922b590083c0c8f835665e2e7c25b5ce",
     "note": "",
     "segments": [
       {
         "frame": "062",
-        "recording_code": "К035",
-        "start_seconds": 0,
-        "end_seconds": 3.591542,
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.6,
+        "timeline_start_frame": 18843,
+        "timeline_end_frame": 18933,
         "text": "Изнеженным цветочкам не место в военной части.",
-        "playback_file": "audio/audio2/a2-027-stanislav-063631-k035.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К062_01_Кеммер_Изнеженным цветочкам не место в военной части.wav"
       },
       {
         "frame": "062a",
-        "recording_code": "К036",
-        "start_seconds": 3.591542,
-        "end_seconds": 12.864989,
+        "line_number": 1,
+        "start_seconds": 3.6,
+        "end_seconds": 12.88,
+        "timeline_start_frame": 18933,
+        "timeline_end_frame": 19165,
         "text": "Своей реакцией на правду вы показываете лишь то, что я твердил с самого начала: вы абсолютно некомпетентны для должности, на которую претендуете.",
-        "playback_file": "audio/audio2/a2-027-stanislav-063631-k036.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К062a_01_Кеммер_Своей реакцией на правду вы показываете лишь.wav"
       },
       {
         "frame": "063",
-        "recording_code": "К037",
-        "start_seconds": 12.864989,
+        "line_number": 1,
+        "start_seconds": 12.88,
         "end_seconds": 22.08,
+        "timeline_start_frame": 19165,
+        "timeline_end_frame": 19395,
         "text": "А теперь берите свой отказ и уходите, нобларина Боллар, потому что иначе я буду вынужден написать рапорт о нападении на вышестоящего по званию офицера.",
-        "playback_file": "audio/audio2/a2-027-stanislav-063631-k037.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К063_01_Кеммер_А теперь берите свой отказ и уходите.wav"
       }
     ],
     "recognition_segments": [
@@ -7350,11 +7544,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T06_36_31_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 1059840,
+    "decoded_seconds": 22.08,
+    "selected": true,
+    "filename": "К062-063_01_Кеммер_Р3.20_Изнеженным цветочкам не место в военной части.mp3"
   },
   {
     "id": "audio2-030",
-    "source_filename": "ElevenLabs_2026-10-28T09_44_24_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К063_03_Кеммер_Р3.22_Именно так и поэтому я настаиваю на.mp3",
     "source_time": "09:44:24",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -7363,17 +7562,19 @@
     "canonical_text": "Именно так, и поэтому я настаиваю на том, чтобы уберечь вас от паскудной участи работать под моим началом. Мы наконец-то поняли друг друга, нобларина Боллар?",
     "recognized_text": "Именно так, и поэтому я настаиваю на том, чтобы уберечь вас от поскудной участие работать под моим началом. Мы наконец-то поняли друг друга на Блорина Боллар, да?",
     "duration_seconds": 11.12,
-    "file": "audio/audio2/a2-030-stanislav-094424.mp3",
+    "file": "audio/audio2/sources/К063_03_Кеммер_Р3.22_Именно так и поэтому я настаиваю на.mp3",
     "sha256": "e63c9f46e35e905ec7c0f4d33b66e4a171c29f97877bcc2b45f70e641a274091",
     "note": "В конце этого дубля распознаётся дополнительное «да?», которого нет в тексте сценария.",
     "segments": [
       {
         "frame": "063",
-        "recording_code": "К038",
-        "start_seconds": 0,
+        "line_number": 3,
+        "start_seconds": 0.0,
         "end_seconds": 11.12,
+        "timeline_start_frame": 19449,
+        "timeline_end_frame": 19727,
         "text": "Именно так, и поэтому я настаиваю на том, чтобы уберечь вас от паскудной участи работать под моим началом. Мы наконец-то поняли друг друга, нобларина Боллар?",
-        "playback_file": "audio/audio2/a2-030-stanislav-094424.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К063_03_Кеммер_Именно так и поэтому я настаиваю на.wav"
       }
     ],
     "recognition_segments": [
@@ -7561,11 +7762,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T09_44_24_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 533760,
+    "decoded_seconds": 11.12,
+    "selected": true,
+    "filename": "К063_03_Кеммер_Р3.22_Именно так и поэтому я настаиваю на.mp3"
   },
   {
     "id": "audio2-031",
-    "source_filename": "ElevenLabs_2026-10-28T09_47_10_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К068_01_Кеммер_Р3.23_Ждите здесь и не вздумайте шататься по.mp3",
     "source_time": "09:47:10",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -7574,17 +7780,19 @@
     "canonical_text": "Ждите здесь и не вздумайте шататься по части!",
     "recognized_text": "Ждите здесь, и не вздумайте шататься по части.",
     "duration_seconds": 3.2,
-    "file": "audio/audio2/a2-031-stanislav-094710.mp3",
+    "file": "audio/audio2/sources/К068_01_Кеммер_Р3.23_Ждите здесь и не вздумайте шататься по.mp3",
     "sha256": "4f0ab029a3af002936670838f7249471459f9d7fa44ec34c983c6e206794ed2a",
     "note": "",
     "segments": [
       {
         "frame": "068",
-        "recording_code": "К039",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 3.2,
+        "timeline_start_frame": 20232,
+        "timeline_end_frame": 20312,
         "text": "Ждите здесь и не вздумайте шататься по части!",
-        "playback_file": "audio/audio2/a2-031-stanislav-094710.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К068_01_Кеммер_Ждите здесь и не вздумайте шататься по.wav"
       }
     ],
     "recognition_segments": [
@@ -7644,11 +7852,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T09_47_10_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 153600,
+    "decoded_seconds": 3.2,
+    "selected": true,
+    "filename": "К068_01_Кеммер_Р3.23_Ждите здесь и не вздумайте шататься по.mp3"
   },
   {
     "id": "audio2-032",
-    "source_filename": "ElevenLabs_2026-10-28T09_59_35_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "source_filename": "К071_01_Кеммер_Р3.26_Искренне надеюсь больше никогда с вами не.mp3",
     "source_time": "09:59:35",
     "voice": "Stanislav",
     "speaker": "Кеммер",
@@ -7657,17 +7870,19 @@
     "canonical_text": "Искренне надеюсь больше никогда с вами не встречаться, нобларина Боллар.",
     "recognized_text": "Искренний надеюсь больше никогда с вами не встречаться, но Блорина Боллар.",
     "duration_seconds": 4.72,
-    "file": "audio/audio2/a2-032-stanislav-095935.mp3",
+    "file": "audio/audio2/sources/К071_01_Кеммер_Р3.26_Искренне надеюсь больше никогда с вами не.mp3",
     "sha256": "546ed8b6afe65a79fc199bf6fe7ed9ac1b4e7f7cb957123dc1a192e1d0857646",
     "note": "",
     "segments": [
       {
         "frame": "071",
-        "recording_code": "К041",
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.72,
+        "timeline_start_frame": 20823,
+        "timeline_end_frame": 20941,
         "text": "Искренне надеюсь больше никогда с вами не встречаться, нобларина Боллар.",
-        "playback_file": "audio/audio2/a2-032-stanislav-095935.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К071_01_Кеммер_Искренне надеюсь больше никогда с вами не.wav"
       }
     ],
     "recognition_segments": [
@@ -7745,11 +7960,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-10-28T09_59_35_Stanislav - Deep, Empathetic and Warm_pvc_sp81_s100_sb100_v4.mp3",
+    "decoded_samples": 226560,
+    "decoded_seconds": 4.72,
+    "selected": true,
+    "filename": "К071_01_Кеммер_Р3.26_Искренне надеюсь больше никогда с вами не.mp3"
   },
   {
     "id": "audio2-033",
-    "source_filename": "ElevenLabs_2026-11-08T09_48_13_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К002-003_01_Адель_Р1.02_Императорским указом меня определили на должность гарнизонного.mp3",
     "source_date": "2026-11-08",
     "source_time": "09:48:13",
     "voice": "Soldani",
@@ -7759,25 +7979,29 @@
     "canonical_text": "Императорским указом меня определили на должность гарнизонного целителя. У вас военная часть, по регламенту вам положен целитель. Империя на военном положении, а вы отказываетесь от специалиста?",
     "recognized_text": "Императорским указом меня определили на должность гарнизонного целителя. У вас военная часть, по регламенту, вам положен целитель. Империя на военным положении, а вы отказываетесь от специалиста?",
     "duration_seconds": 12.8,
-    "file": "audio/audio2/a2-033-soldani-094813.mp3",
+    "file": "audio/audio2/sources/К002-003_01_Адель_Р1.02_Императорским указом меня определили на должность гарнизонного.mp3",
     "sha256": "3d0bd60d51aa37003a755e2b60c475e26466247cea738670ca87f5f7915a2eb8",
     "note": "",
     "segments": [
       {
         "frame": "002",
-        "recording_code": null,
-        "start_seconds": 0,
-        "end_seconds": 4.79,
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.8,
+        "timeline_start_frame": 165,
+        "timeline_end_frame": 285,
         "text": "Императорским указом меня определили на должность гарнизонного целителя.",
-        "playback_file": "audio/audio2/a2-033-soldani-094813-frame002.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К002_01_Адель_Императорским указом меня определили на должность гарнизонного.wav"
       },
       {
         "frame": "003",
-        "recording_code": null,
-        "start_seconds": 4.79,
+        "line_number": 1,
+        "start_seconds": 4.8,
         "end_seconds": 12.8,
+        "timeline_start_frame": 285,
+        "timeline_end_frame": 485,
         "text": "У вас военная часть, по регламенту вам положен целитель. Империя на военном положении, а вы отказываетесь от специалиста?",
-        "playback_file": "audio/audio2/a2-033-soldani-094813-frame003.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К003_01_Адель_У вас военная часть по регламенту вам.wav"
       }
     ],
     "recognition_segments": [
@@ -7944,11 +8168,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T09_48_13_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 614400,
+    "decoded_seconds": 12.8,
+    "selected": true,
+    "filename": "К002-003_01_Адель_Р1.02_Императорским указом меня определили на должность гарнизонного.mp3"
   },
   {
     "id": "audio2-034",
-    "source_filename": "ElevenLabs_2026-11-08T10_18_14_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К006_01_Адель_Р1.04_Я обучалась дома а ещё у меня.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:18:14",
     "voice": "Soldani",
@@ -7958,17 +8187,19 @@
     "canonical_text": "Я обучалась дома, а ещё у меня есть дар магии жизни. Такому, ноблард Бла́йнер, в академиях не учат. Вы не можете не понимать, что целитель с таким даром — ценнейшее приобретение для любой военной части.",
     "recognized_text": "Я обучалась дома, а еще у меня есть дар магии жизни. Такому Ноблард Блайнер, в академии их не учат. Вы не можете не понимать, что целитель с таким даром ценнейшее приобретение для любой военной части.",
     "duration_seconds": 13.44,
-    "file": "audio/audio2/a2-034-soldani-101814.mp3",
+    "file": "audio/audio2/sources/К006_01_Адель_Р1.04_Я обучалась дома а ещё у меня.mp3",
     "sha256": "9fd2363b37e51783ea963ea76c6dc62a7562966e889900c4256202265f238076",
     "note": "",
     "segments": [
       {
         "frame": "006",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 13.44,
+        "timeline_start_frame": 805,
+        "timeline_end_frame": 1141,
         "text": "Я обучалась дома, а ещё у меня есть дар магии жизни. Такому, ноблард Бла́йнер, в академиях не учат. Вы не можете не понимать, что целитель с таким даром — ценнейшее приобретение для любой военной части.",
-        "playback_file": "audio/audio2/a2-034-soldani-101814.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К006_01_Адель_Я обучалась дома а ещё у меня.wav"
       }
     ],
     "recognition_segments": [
@@ -8189,11 +8420,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_18_14_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 645120,
+    "decoded_seconds": 13.44,
+    "selected": true,
+    "filename": "К006_01_Адель_Р1.04_Я обучалась дома а ещё у меня.mp3"
   },
   {
     "id": "audio2-035",
-    "source_filename": "ElevenLabs_2026-11-08T10_25_37_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К008_01_Адель_Р1.06_Навыки хирурга у меня есть И лучше.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:25:37",
     "voice": "Soldani",
@@ -8203,17 +8439,19 @@
     "canonical_text": "Навыки хирурга у меня есть. И лучше иметь неопытного целителя, чем не иметь его вовсе.",
     "recognized_text": "На этих эрургах у меня есть. И лучше иметь неопытного целителя, чем не иметь его вовсе.",
     "duration_seconds": 6.64,
-    "file": "audio/audio2/a2-035-soldani-102537.mp3",
+    "file": "audio/audio2/sources/К008_01_Адель_Р1.06_Навыки хирурга у меня есть И лучше.mp3",
     "sha256": "07efd6730e1bb612de7abed91a3bc761de34a7e179be7f1e084ad1c9f3d65a1a",
     "note": "",
     "segments": [
       {
         "frame": "008",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 6.64,
+        "timeline_start_frame": 1610,
+        "timeline_end_frame": 1776,
         "text": "Навыки хирурга у меня есть. И лучше иметь неопытного целителя, чем не иметь его вовсе.",
-        "playback_file": "audio/audio2/a2-035-soldani-102537.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К008_01_Адель_Навыки хирурга у меня есть И лучше.wav"
       }
     ],
     "recognition_segments": [
@@ -8320,11 +8558,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_25_37_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 318720,
+    "decoded_seconds": 6.64,
+    "selected": true,
+    "filename": "К008_01_Адель_Р1.06_Навыки хирурга у меня есть И лучше.mp3"
   },
   {
     "id": "audio2-036",
-    "source_filename": "ElevenLabs_2026-11-08T10_26_36_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К011_01_Адель_Р1.08_Как командир.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:26:36",
     "voice": "Soldani",
@@ -8334,17 +8577,19 @@
     "canonical_text": "Как командир…",
     "recognized_text": "Как командир? СППППППППП",
     "duration_seconds": 1.44,
-    "file": "audio/audio2/a2-036-soldani-102636.mp3",
+    "file": "audio/audio2/sources/К011_01_Адель_Р1.08_Как командир.mp3",
     "sha256": "f318686b2e081eadbf58d2694c2011f6955e9dfb7c1243707341866e19778eb9",
     "note": "",
     "segments": [
       {
         "frame": "011",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 1.44,
+        "timeline_start_frame": 1945,
+        "timeline_end_frame": 1981,
         "text": "Как командир…",
-        "playback_file": "audio/audio2/a2-036-soldani-102636.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К011_01_Адель_Как командир.wav"
       }
     ],
     "recognition_segments": [
@@ -8380,11 +8625,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_26_36_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 69120,
+    "decoded_seconds": 1.44,
+    "selected": true,
+    "filename": "К011_01_Адель_Р1.08_Как командир.mp3"
   },
   {
     "id": "audio2-037",
-    "source_filename": "ElevenLabs_2026-11-08T10_45_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К013_01_Адель_Р1.10_Так вот как командор вы должны понимать.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:45:21",
     "voice": "Soldani",
@@ -8394,17 +8644,19 @@
     "canonical_text": "Так вот, как командор вы должны понимать, что маг жизни…",
     "recognized_text": "Так вот, как командор вы должны понимать, что маг жизни…",
     "duration_seconds": 4.96,
-    "file": "audio/audio2/a2-037-soldani-104521.mp3",
+    "file": "audio/audio2/sources/К013_01_Адель_Р1.10_Так вот как командор вы должны понимать.mp3",
     "sha256": "a9cd04d587523980ee7b1f5df25bc60984b32ff8bf3e62d204f5174a50437e89",
     "note": "",
     "segments": [
       {
         "frame": "013",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 4.96,
+        "timeline_start_frame": 2275,
+        "timeline_end_frame": 2399,
         "text": "Так вот, как командор вы должны понимать, что маг жизни…",
-        "playback_file": "audio/audio2/a2-037-soldani-104521.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К013_01_Адель_Так вот как командор вы должны понимать.wav"
       }
     ],
     "recognition_segments": [
@@ -8475,11 +8727,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_45_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 238080,
+    "decoded_seconds": 4.96,
+    "selected": true,
+    "filename": "К013_01_Адель_Р1.10_Так вот как командор вы должны понимать.mp3"
   },
   {
     "id": "audio2-038",
-    "source_filename": "ElevenLabs_2026-11-08T10_49_34_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018_01_Адель_Р1.12_Меня распределили в эту часть Вы же.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:49:34",
     "voice": "Soldani",
@@ -8489,17 +8746,19 @@
     "canonical_text": "Меня распределили в эту часть. Вы же видели документы.",
     "recognized_text": "Меня распределили в эту часть. Вы же видели документы.",
     "duration_seconds": 3.92,
-    "file": "audio/audio2/a2-038-soldani-104934.mp3",
+    "file": "audio/audio2/sources/К018_01_Адель_Р1.12_Меня распределили в эту часть Вы же.mp3",
     "sha256": "e026307cfbc54dfa5d12530aacff6b483233dd4776202e2f81f8049dec6b2e69",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 3.92,
+        "timeline_start_frame": 3551,
+        "timeline_end_frame": 3649,
         "text": "Меня распределили в эту часть. Вы же видели документы.",
-        "playback_file": "audio/audio2/a2-038-soldani-104934.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_01_Адель_Меня распределили в эту часть Вы же.wav"
       }
     ],
     "recognition_segments": [
@@ -8564,11 +8823,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_49_34_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 188160,
+    "decoded_seconds": 3.92,
+    "selected": true,
+    "filename": "К018_01_Адель_Р1.12_Меня распределили в эту часть Вы же.mp3"
   },
   {
     "id": "audio2-039",
-    "source_filename": "ElevenLabs_2026-11-08T10_50_09_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018_03_Адель_Р1.14_Но.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:50:09",
     "voice": "Soldani",
@@ -8578,17 +8842,19 @@
     "canonical_text": "Но…",
     "recognized_text": "Но... Но... Но... Но... Но... Но...",
     "duration_seconds": 1.6,
-    "file": "audio/audio2/a2-039-soldani-105009.mp3",
+    "file": "audio/audio2/sources/К018_03_Адель_Р1.14_Но.mp3",
     "sha256": "b147f74b358d1c8d8844a2cd9142cfc5c6fc61a4a25949abb8aa1bb54d1b4381",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 3,
+        "start_seconds": 0.0,
         "end_seconds": 1.6,
+        "timeline_start_frame": 3915,
+        "timeline_end_frame": 3955,
         "text": "Но…",
-        "playback_file": "audio/audio2/a2-039-soldani-105009.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_03_Адель_Но.wav"
       }
     ],
     "recognition_segments": [
@@ -8642,11 +8908,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_50_09_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 76800,
+    "decoded_seconds": 1.6,
+    "selected": true,
+    "filename": "К018_03_Адель_Р1.14_Но.mp3"
   },
   {
     "id": "audio2-040",
-    "source_filename": "ElevenLabs_2026-11-08T10_50_27_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018_05_Адель_Р1.16_Но позвольте.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:50:27",
     "voice": "Soldani",
@@ -8656,17 +8927,19 @@
     "canonical_text": "Но позвольте…",
     "recognized_text": "Ну, позвольте!",
     "duration_seconds": 1.68,
-    "file": "audio/audio2/a2-040-soldani-105027.mp3",
+    "file": "audio/audio2/sources/К018_05_Адель_Р1.16_Но позвольте.mp3",
     "sha256": "b29c10656e7f354ab6e8b9cb9e6a6d51c9389cabd2d31fec96e1e156f20227f1",
     "note": "",
     "segments": [
       {
         "frame": "018",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 5,
+        "start_seconds": 0.0,
         "end_seconds": 1.68,
+        "timeline_start_frame": 3989,
+        "timeline_end_frame": 4031,
         "text": "Но позвольте…",
-        "playback_file": "audio/audio2/a2-040-soldani-105027.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018_05_Адель_Но позвольте.wav"
       }
     ],
     "recognition_segments": [
@@ -8689,11 +8962,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_50_27_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 80640,
+    "decoded_seconds": 1.68,
+    "selected": true,
+    "filename": "К018_05_Адель_Р1.16_Но позвольте.mp3"
   },
   {
     "id": "audio2-041",
-    "source_filename": "ElevenLabs_2026-11-08T10_52_10_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К019_01_Адель_Р1.18_Для подобного отказа должны быть веские причины.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:52:10",
     "voice": "Soldani",
@@ -8703,17 +8981,19 @@
     "canonical_text": "Для подобного отказа должны быть веские причины, командор Блайнер. И думаю, что некомпетентность, в которой вы пытаетесь меня обвинить, тут ни при чём, иначе вы просто проверили бы мои навыки, а не отказывали мне в ту же секунду, как я появилась в вашем кабинете. Так каковы истинные мотивы вашего решения?",
     "recognized_text": "Для подобного отказа должна быть веские причины командор Блайнер. И думаю, что не компетентность, в которой вы пытаетесь меня обвинить тут ни при чём. Иначе вы просто проверили бы мои навыки, а не отказывали мне в ту же секунду, как я появилась в вашем кабинете. Так каковы истинные мотивы вашего решения?",
     "duration_seconds": 17.76,
-    "file": "audio/audio2/a2-041-soldani-105210.mp3",
+    "file": "audio/audio2/sources/К019_01_Адель_Р1.18_Для подобного отказа должны быть веские причины.mp3",
     "sha256": "313c1f4957bce45f17be95046d7af35590d9a75d71debaac92dff896dfce7cf9",
     "note": "",
     "segments": [
       {
         "frame": "019",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 17.76,
+        "timeline_start_frame": 4769,
+        "timeline_end_frame": 5213,
         "text": "Для подобного отказа должны быть веские причины, командор Блайнер. И думаю, что некомпетентность, в которой вы пытаетесь меня обвинить, тут ни при чём, иначе вы просто проверили бы мои навыки, а не отказывали мне в ту же секунду, как я появилась в вашем кабинете. Так каковы истинные мотивы вашего решения?",
-        "playback_file": "audio/audio2/a2-041-soldani-105210.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К019_01_Адель_Для подобного отказа должны быть веские причины.wav"
       }
     ],
     "recognition_segments": [
@@ -9037,11 +9317,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_52_10_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 852480,
+    "decoded_seconds": 17.76,
+    "selected": true,
+    "filename": "К019_01_Адель_Р1.18_Для подобного отказа должны быть веские причины.mp3"
   },
   {
     "id": "audio2-042",
-    "source_filename": "ElevenLabs_2026-11-08T10_55_15_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К019_02_Адель_Р1.19_Командор Блайнер скажите честно причина вашего отказа.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:55:15",
     "voice": "Soldani",
@@ -9051,17 +9336,19 @@
     "canonical_text": "Командор Блайнер, скажите честно, причина вашего отказа — вражда между нашими родами? Я уверяю вас, что конфликт между нашими семьями никак не отразится на моей работе. Могу принести клятву.",
     "recognized_text": "Командор Блайнер, скажите честно, причина вашего отказа, в рожда между нашими родами. Я уверяю вас, что конфликт между нашими семьями никак не отразится на моей работе. Могу принести клятву.",
     "duration_seconds": 13.2,
-    "file": "audio/audio2/a2-042-soldani-105515.mp3",
+    "file": "audio/audio2/sources/К019_02_Адель_Р1.19_Командор Блайнер скажите честно причина вашего отказа.mp3",
     "sha256": "6f4e65ae78b200829e91fda5463fc3f7c1ea8ac88e8574a0cd26b6d48449631f",
     "note": "",
     "segments": [
       {
         "frame": "019",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 13.2,
+        "timeline_start_frame": 5263,
+        "timeline_end_frame": 5593,
         "text": "Командор Блайнер, скажите честно, причина вашего отказа — вражда между нашими родами? Я уверяю вас, что конфликт между нашими семьями никак не отразится на моей работе. Могу принести клятву.",
-        "playback_file": "audio/audio2/a2-042-soldani-105515.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К019_02_Адель_Командор Блайнер скажите честно причина вашего отказа.wav"
       }
     ],
     "recognition_segments": [
@@ -9246,11 +9533,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_55_15_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 633600,
+    "decoded_seconds": 13.2,
+    "selected": true,
+    "filename": "К019_02_Адель_Р1.19_Командор Блайнер скажите честно причина вашего отказа.mp3"
   },
   {
     "id": "audio2-043",
-    "source_filename": "ElevenLabs_2026-11-08T10_56_16_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К020_02_Адель_Р1.21_Тогда в чём дело Вы же понимаете.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:56:16",
     "voice": "Soldani",
@@ -9260,17 +9552,19 @@
     "canonical_text": "Тогда в чём дело? Вы же понимаете, как сильно мне нужна эта должность! Почему вы мне отказываете?",
     "recognized_text": "Когда в чём дело, вы же понимаете, как сильно мне нужна эта должность? Почему вы мне отказываете?",
     "duration_seconds": 6.96,
-    "file": "audio/audio2/a2-043-soldani-105616.mp3",
+    "file": "audio/audio2/sources/К020_02_Адель_Р1.21_Тогда в чём дело Вы же понимаете.mp3",
     "sha256": "78a06f7cf39d6a29093ca6b1239f8d8bf705d1b61accd12953ab2c44ee22290d",
     "note": "",
     "segments": [
       {
         "frame": "020",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 6.96,
+        "timeline_start_frame": 6090,
+        "timeline_end_frame": 6264,
         "text": "Тогда в чём дело? Вы же понимаете, как сильно мне нужна эта должность! Почему вы мне отказываете?",
-        "playback_file": "audio/audio2/a2-043-soldani-105616.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К020_02_Адель_Тогда в чём дело Вы же понимаете.wav"
       }
     ],
     "recognition_segments": [
@@ -9383,11 +9677,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_56_16_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 334080,
+    "decoded_seconds": 6.96,
+    "selected": true,
+    "filename": "К020_02_Адель_Р1.21_Тогда в чём дело Вы же понимаете.mp3"
   },
   {
     "id": "audio2-044",
-    "source_filename": "ElevenLabs_2026-11-08T10_56_58_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К029_01_Адель_Р2.02_Чушь Я уже неоднократно ассистировала брату во.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:56:58",
     "voice": "Soldani",
@@ -9397,17 +9696,19 @@
     "canonical_text": "Чушь! Я уже неоднократно ассистировала брату во Втором госпитале при Разломе.",
     "recognized_text": "Сюж! Я уже неоднократно ассистировала брату во втором госпитале при разломе. Сюж! Я уже неоднократно ассистировала брату во втором госпитале при разломе.",
     "duration_seconds": 5.2,
-    "file": "audio/audio2/a2-044-soldani-105658.mp3",
+    "file": "audio/audio2/sources/К029_01_Адель_Р2.02_Чушь Я уже неоднократно ассистировала брату во.mp3",
     "sha256": "f564e4430d6bb6807efd07b6e7621df42303d01e0aba7b8eb741c562a6104ca3",
     "note": "",
     "segments": [
       {
         "frame": "029",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 5.2,
+        "timeline_start_frame": 7156,
+        "timeline_end_frame": 7286,
         "text": "Чушь! Я уже неоднократно ассистировала брату во Втором госпитале при Разломе.",
-        "playback_file": "audio/audio2/a2-044-soldani-105658.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К029_01_Адель_Чушь Я уже неоднократно ассистировала брату во.wav"
       }
     ],
     "recognition_segments": [
@@ -9557,11 +9858,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_56_58_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 249600,
+    "decoded_seconds": 5.2,
+    "selected": true,
+    "filename": "К029_01_Адель_Р2.02_Чушь Я уже неоднократно ассистировала брату во.mp3"
   },
   {
     "id": "audio2-045",
-    "source_filename": "ElevenLabs_2026-11-08T10_58_00_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К031_01_Адель_Р2.04_Если бы целитель был не нужен то.mp3",
     "source_date": "2026-11-08",
     "source_time": "10:58:00",
     "voice": "Soldani",
@@ -9571,17 +9877,19 @@
     "canonical_text": "Если бы целитель был не нужен, то меня бы сюда не прислали. А ваши слова о моей некомпетентности и отсутствии хирургического опыта — лишь отговорки. Сами же говорите, что целитель вам не нужен, так зачем вам тогда хирург? И к чему вам опытный управленец, если управлять нужно обычным медицинским кабинетом и ящиком наверняка просроченных снадобий. Так в чём реальная причина? В моём происхождении?",
     "recognized_text": "Если бы целитель был ненужен, то меня бы сюда не прислали, а ваши слова о моей некомпетентности и отсутствие хирургического опыта лишь отговорки. Сами же говорите, что целитель вам не нужен, так зачем вам тогда хирург? И к чему вам опытный управленец, если управлять нужно обычным медицинским кабинетом и ящиком наверняка просроченных с надобей? Так в чём реальная причина? В моём происхождении?",
     "duration_seconds": 23.2,
-    "file": "audio/audio2/a2-045-soldani-105800.mp3",
+    "file": "audio/audio2/sources/К031_01_Адель_Р2.04_Если бы целитель был не нужен то.mp3",
     "sha256": "3d9264502dcf7e4288b65430c3b54b3c231371b36d9418becf328695cc906697",
     "note": "",
     "segments": [
       {
         "frame": "031",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 23.2,
+        "timeline_start_frame": 7443,
+        "timeline_end_frame": 8023,
         "text": "Если бы целитель был не нужен, то меня бы сюда не прислали. А ваши слова о моей некомпетентности и отсутствии хирургического опыта — лишь отговорки. Сами же говорите, что целитель вам не нужен, так зачем вам тогда хирург? И к чему вам опытный управленец, если управлять нужно обычным медицинским кабинетом и ящиком наверняка просроченных снадобий. Так в чём реальная причина? В моём происхождении?",
-        "playback_file": "audio/audio2/a2-045-soldani-105800.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К031_01_Адель_Если бы целитель был не нужен то.wav"
       }
     ],
     "recognition_segments": [
@@ -9971,11 +10279,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T10_58_00_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 1113600,
+    "decoded_seconds": 23.2,
+    "selected": true,
+    "filename": "К031_01_Адель_Р2.04_Если бы целитель был не нужен то.mp3"
   },
   {
     "id": "audio2-046",
-    "source_filename": "ElevenLabs_2026-11-08T11_00_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К032_02_Адель_Р2.06_Тогда в чём дело.mp3",
     "source_date": "2026-11-08",
     "source_time": "11:00:21",
     "voice": "Soldani",
@@ -9985,17 +10298,19 @@
     "canonical_text": "Тогда в чём дело?!",
     "recognized_text": "Тогда в чём дело? Боллар.",
     "duration_seconds": 1.84,
-    "file": "audio/audio2/a2-046-soldani-110021.mp3",
+    "file": "audio/audio2/sources/К032_02_Адель_Р2.06_Тогда в чём дело.mp3",
     "sha256": "f5c2984f99784e7a8fbddd255524bfcd03aa99c35bd03195e24f7d105de29bcc",
     "note": "",
     "segments": [
       {
         "frame": "032",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 1.84,
+        "timeline_start_frame": 8176,
+        "timeline_end_frame": 8222,
         "text": "Тогда в чём дело?!",
-        "playback_file": "audio/audio2/a2-046-soldani-110021.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К032_02_Адель_Тогда в чём дело.wav"
       }
     ],
     "recognition_segments": [
@@ -10043,11 +10358,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T11_00_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 88320,
+    "decoded_seconds": 1.84,
+    "selected": true,
+    "filename": "К032_02_Адель_Р2.06_Тогда в чём дело.mp3"
   },
   {
     "id": "audio2-047",
-    "source_filename": "ElevenLabs_2026-11-08T11_00_49_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К037_01_Адель_Р2.08_Ваша часть единственная не укомплектованная штатным целителем.mp3",
     "source_date": "2026-11-08",
     "source_time": "11:00:49",
     "voice": "Soldani",
@@ -10057,17 +10377,19 @@
     "canonical_text": "Ваша часть — единственная, не укомплектованная штатным целителем, поэтому меня распределили именно сюда. И, даже несмотря на ваш отказ, я не уйду, пока вы не скажете его реальную причину.",
     "recognized_text": "Ваша часть единственная, неукомплектованная, штатным целителем, поэтому меня распределили именно сюда. И даже несмотря на ваш отказ, я не уйду, пока вы не скажете его реальную причину.",
     "duration_seconds": 12.24,
-    "file": "audio/audio2/a2-047-soldani-110049.mp3",
+    "file": "audio/audio2/sources/К037_01_Адель_Р2.08_Ваша часть единственная не укомплектованная штатным целителем.mp3",
     "sha256": "b0a83b9b59a2e202e45887050540300fad528c4606ace241ecde88545800292a",
     "note": "",
     "segments": [
       {
         "frame": "037",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 12.24,
+        "timeline_start_frame": 8729,
+        "timeline_end_frame": 9035,
         "text": "Ваша часть — единственная, не укомплектованная штатным целителем, поэтому меня распределили именно сюда. И, даже несмотря на ваш отказ, я не уйду, пока вы не скажете его реальную причину.",
-        "playback_file": "audio/audio2/a2-047-soldani-110049.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К037_01_Адель_Ваша часть единственная не укомплектованная штатным целителем.wav"
       }
     ],
     "recognition_segments": [
@@ -10247,11 +10569,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T11_00_49_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 587520,
+    "decoded_seconds": 12.24,
+    "selected": true,
+    "filename": "К037_01_Адель_Р2.08_Ваша часть единственная не укомплектованная штатным целителем.mp3"
   },
   {
     "id": "audio2-048",
-    "source_filename": "ElevenLabs_2026-11-08T11_04_51_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К038_01_Адель_Р2.10_Я всего лишь хочу знать почему с.mp3",
     "source_date": "2026-11-08",
     "source_time": "11:04:51",
     "voice": "Soldani",
@@ -10261,17 +10588,19 @@
     "canonical_text": "Я всего лишь хочу знать, почему, с одной стороны, вся столица гудит о нехватке целителей у Разлома, а с другой — меня отказываются принимать на постоянную работу уже в третью по счёту часть.",
     "recognized_text": "Я всего лишь хочу знать, почему, с одной стороны вся столица гудит о нихватки, целители, уразлома, а с другой меня отказываются принимать на постоянную работу уже в третью по счету часть.",
     "duration_seconds": 11.36,
-    "file": "audio/audio2/a2-048-soldani-110451.mp3",
+    "file": "audio/audio2/sources/К038_01_Адель_Р2.10_Я всего лишь хочу знать почему с.mp3",
     "sha256": "e10c4ae4fcd735dea737ca7337b2033a6e5486ffd4a0f67e6465e06757e3eda5",
     "note": "",
     "segments": [
       {
         "frame": "038",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 11.36,
+        "timeline_start_frame": 9362,
+        "timeline_end_frame": 9646,
         "text": "Я всего лишь хочу знать, почему, с одной стороны, вся столица гудит о нехватке целителей у Разлома, а с другой — меня отказываются принимать на постоянную работу уже в третью по счёту часть.",
-        "playback_file": "audio/audio2/a2-048-soldani-110451.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К038_01_Адель_Я всего лишь хочу знать почему с.wav"
       }
     ],
     "recognition_segments": [
@@ -10468,11 +10797,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T11_04_51_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 545280,
+    "decoded_seconds": 11.36,
+    "selected": true,
+    "filename": "К038_01_Адель_Р2.10_Я всего лишь хочу знать почему с.mp3"
   },
   {
     "id": "audio2-049",
-    "source_filename": "ElevenLabs_2026-11-08T12_11_28_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К041_01_Адель_Р3.01_У меня есть соответствующий опыт работы Пусть.mp3",
     "source_date": "2026-11-08",
     "source_time": "12:11:28",
     "voice": "Soldani",
@@ -10482,17 +10816,19 @@
     "canonical_text": "У меня есть соответствующий опыт работы. Пусть и небольшой. Но я прилежная ученица, быстро освою всё, что нужно. Я обещаю, что не доставлю никаких проблем.",
     "recognized_text": "У меня есть соответствующие опыт работы. Пусть и небольшой, но я прилежная ученица, быстро освою все что нужно. Я обещаю, что не доставлю никаких проблем. Пусть и не доставлю. Пусть и не доставлю. Пусть и не доставлю.",
     "duration_seconds": 10.8,
-    "file": "audio/audio2/a2-049-soldani-121128.mp3",
+    "file": "audio/audio2/sources/К041_01_Адель_Р3.01_У меня есть соответствующий опыт работы Пусть.mp3",
     "sha256": "a865e677a4648a9f83fce1090742824623c11ca238f7b96e247417272d9097f9",
     "note": "",
     "segments": [
       {
         "frame": "041",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 10.8,
+        "timeline_start_frame": 9949,
+        "timeline_end_frame": 10219,
         "text": "У меня есть соответствующий опыт работы. Пусть и небольшой. Но я прилежная ученица, быстро освою всё, что нужно. Я обещаю, что не доставлю никаких проблем.",
-        "playback_file": "audio/audio2/a2-049-soldani-121128.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К041_01_Адель_У меня есть соответствующий опыт работы Пусть.wav"
       }
     ],
     "recognition_segments": [
@@ -10732,11 +11068,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T12_11_28_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 518400,
+    "decoded_seconds": 10.8,
+    "selected": true,
+    "filename": "К041_01_Адель_Р3.01_У меня есть соответствующий опыт работы Пусть.mp3"
   },
   {
     "id": "audio2-050",
-    "source_filename": "ElevenLabs_2026-11-08T12_13_47_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К046_01_Адель_Р3.03_Я не приму его до тех пор.mp3",
     "source_date": "2026-11-08",
     "source_time": "12:13:47",
     "voice": "Soldani",
@@ -10746,17 +11087,19 @@
     "canonical_text": "Я не приму его до тех пор, пока вы честно не ответите на мой вопрос. Почему вы мне отказываете?",
     "recognized_text": "Я не прямую его до тех пор, пока вы честно не ответите на мой вопрос. Почему вы мне отказываете?",
     "duration_seconds": 6.0,
-    "file": "audio/audio2/a2-050-soldani-121347.mp3",
+    "file": "audio/audio2/sources/К046_01_Адель_Р3.03_Я не приму его до тех пор.mp3",
     "sha256": "3450b18ed441d24aa20611a5bbd268f635971bb2f572fb4d9780ae1c692b4207",
     "note": "",
     "segments": [
       {
         "frame": "046",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 6.0,
+        "timeline_start_frame": 10649,
+        "timeline_end_frame": 10799,
         "text": "Я не приму его до тех пор, пока вы честно не ответите на мой вопрос. Почему вы мне отказываете?",
-        "playback_file": "audio/audio2/a2-050-soldani-121347.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К046_01_Адель_Я не приму его до тех пор.wav"
       }
     ],
     "recognition_segments": [
@@ -10881,11 +11224,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T12_13_47_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 288000,
+    "decoded_seconds": 6.0,
+    "selected": true,
+    "filename": "К046_01_Адель_Р3.03_Я не приму его до тех пор.mp3"
   },
   {
     "id": "audio2-051",
-    "source_filename": "ElevenLabs_2026-11-08T12_14_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К048_01_Адель_Р3.05_Я готова к службе но никто не.mp3",
     "source_date": "2026-11-08",
     "source_time": "12:14:21",
     "voice": "Soldani",
@@ -10895,17 +11243,19 @@
     "canonical_text": "Я готова к службе, но никто не объясняет, почему меня на неё не берут! Понимаю, что о симпатии и уважении просить бессмысленно, но проявите хотя бы честность…",
     "recognized_text": "Я готова к службе, но никто не объясняет, почему меня на нее не берут. Понимаю, что о симпатии уважении просить бессмысленно, но проявите хотя бы честность.",
     "duration_seconds": 10.24,
-    "file": "audio/audio2/a2-051-soldani-121421.mp3",
+    "file": "audio/audio2/sources/К048_01_Адель_Р3.05_Я готова к службе но никто не.mp3",
     "sha256": "5762e25c2390bc69c6e46ee7a974c8df9523d87fb8924b89cea5dc1aa35ee8cd",
     "note": "",
     "segments": [
       {
         "frame": "048",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 10.24,
+        "timeline_start_frame": 11379,
+        "timeline_end_frame": 11635,
         "text": "Я готова к службе, но никто не объясняет, почему меня на неё не берут! Понимаю, что о симпатии и уважении просить бессмысленно, но проявите хотя бы честность…",
-        "playback_file": "audio/audio2/a2-051-soldani-121421.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К048_01_Адель_Я готова к службе но никто не.wav"
       }
     ],
     "recognition_segments": [
@@ -11072,11 +11422,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T12_14_21_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 491520,
+    "decoded_seconds": 10.24,
+    "selected": true,
+    "filename": "К048_01_Адель_Р3.05_Я готова к службе но никто не.mp3"
   },
   {
     "id": "audio2-052",
-    "source_filename": "ElevenLabs_2026-11-08T12_22_06_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К049_02_Адель_Р3.07_Я не уйду пока вы не озвучите.mp3",
     "source_date": "2026-11-08",
     "source_time": "12:22:06",
     "voice": "Soldani",
@@ -11086,17 +11441,19 @@
     "canonical_text": "Я не уйду, пока вы не озвучите реальную причину отказа! Может, я смогу как-то исправить…",
     "recognized_text": "Я не уйду, пока вы не озвучите реальную причину отказа. Может, я смогу как-то исправить.",
     "duration_seconds": 7.44,
-    "file": "audio/audio2/a2-052-soldani-122206.mp3",
+    "file": "audio/audio2/sources/К049_02_Адель_Р3.07_Я не уйду пока вы не озвучите.mp3",
     "sha256": "2a4344e900e732bba15d953fb8bc4f88f17701fdc021d8ccf638dd77ae18374f",
     "note": "",
     "segments": [
       {
         "frame": "049",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 7.44,
+        "timeline_start_frame": 11944,
+        "timeline_end_frame": 12130,
         "text": "Я не уйду, пока вы не озвучите реальную причину отказа! Может, я смогу как-то исправить…",
-        "playback_file": "audio/audio2/a2-052-soldani-122206.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К049_02_Адель_Я не уйду пока вы не озвучите.wav"
       }
     ],
     "recognition_segments": [
@@ -11203,11 +11560,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T12_22_06_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 357120,
+    "decoded_seconds": 7.44,
+    "selected": true,
+    "filename": "К049_02_Адель_Р3.07_Я не уйду пока вы не озвучите.mp3"
   },
   {
     "id": "audio2-053",
-    "source_filename": "ElevenLabs_2026-11-08T18_47_51_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К054_01_Адель_Р3.09_Что При чём здесь моя внешность и.mp3",
     "source_date": "2026-11-08",
     "source_time": "18:47:51",
     "voice": "Soldani",
@@ -11217,17 +11579,19 @@
     "canonical_text": "Что? При чём здесь моя внешность и проклятие? Они никакого отношения не имеют к работе! Максимум, на что может повлиять проклятие — так это на мою личную жизнь, но она вас никак не касается.",
     "recognized_text": "Что? Причем здесь моя внешности проклятия? Они никакого отношения не имеют к работе. Максимум, на что может повлиять проклятия, так это на мою личную жизнь, но она вас никак не касается.",
     "duration_seconds": 13.44,
-    "file": "audio/audio2/a2-053-soldani-184751.mp3",
+    "file": "audio/audio2/sources/К054_01_Адель_Р3.09_Что При чём здесь моя внешность и.mp3",
     "sha256": "f439c8d385846e64ea5cbc57f19c2e4ef18a06b7b0ba7cf2d8ac3403d342b0eb",
     "note": "",
     "segments": [
       {
         "frame": "054",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 13.44,
+        "timeline_start_frame": 12600,
+        "timeline_end_frame": 12936,
         "text": "Что? При чём здесь моя внешность и проклятие? Они никакого отношения не имеют к работе! Максимум, на что может повлиять проклятие — так это на мою личную жизнь, но она вас никак не касается.",
-        "playback_file": "audio/audio2/a2-053-soldani-184751.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К054_01_Адель_Что При чём здесь моя внешность и.wav"
       }
     ],
     "recognition_segments": [
@@ -11424,11 +11788,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T18_47_51_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 645120,
+    "decoded_seconds": 13.44,
+    "selected": true,
+    "filename": "К054_01_Адель_Р3.09_Что При чём здесь моя внешность и.mp3"
   },
   {
     "id": "audio2-054",
-    "source_filename": "ElevenLabs_2026-11-08T18_52_50_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К054_03_Адель_Р3.11_И чем же моё проклятие может помешать.mp3",
     "source_date": "2026-11-08",
     "source_time": "18:52:50",
     "voice": "Soldani",
@@ -11438,17 +11807,19 @@
     "canonical_text": "И чем же моё проклятие может помешать работе?",
     "recognized_text": "И чем же моё проклятие может помешать работе?",
     "duration_seconds": 3.28,
-    "file": "audio/audio2/a2-054-soldani-185250.mp3",
+    "file": "audio/audio2/sources/К054_03_Адель_Р3.11_И чем же моё проклятие может помешать.mp3",
     "sha256": "6a545e2a069414bc5e2fbbc0be94b6b2601821251f4c2fe1b01d6db139432de8",
     "note": "",
     "segments": [
       {
         "frame": "054",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 3,
+        "start_seconds": 0.0,
         "end_seconds": 3.28,
+        "timeline_start_frame": 13114,
+        "timeline_end_frame": 13196,
         "text": "И чем же моё проклятие может помешать работе?",
-        "playback_file": "audio/audio2/a2-054-soldani-185250.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К054_03_Адель_И чем же моё проклятие может помешать.wav"
       }
     ],
     "recognition_segments": [
@@ -11507,11 +11878,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T18_52_50_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 157440,
+    "decoded_seconds": 3.28,
+    "selected": true,
+    "filename": "К054_03_Адель_Р3.11_И чем же моё проклятие может помешать.mp3"
   },
   {
     "id": "audio2-055",
-    "source_filename": "ElevenLabs_2026-11-08T18_54_13_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К056_01_Адель_Р3.13_Вы говорите ерунду Брат несколько раз пытался.mp3",
     "source_date": "2026-11-08",
     "source_time": "18:54:13",
     "voice": "Soldani",
@@ -11521,17 +11897,19 @@
     "canonical_text": "Вы говорите ерунду! Брат несколько раз пытался организовать браки с… пожилыми мужчинами, ни один из них не получил благословения богини. Мы оставили эту затею ещё два года назад, когда стало понятно, что обойти проклятие таким образом не получится. Геста не одобряет фальшивые браки.",
     "recognized_text": "Вы говорите, ерунду! Брат несколько раз пытался организовать браки с пожилыми мужчинами. Не один из них не получил благословение богини. Мы оставили эту затею еще два года назад, когда стало понятно, что обойти проклятия таким образом не получится. Геста не одобряет фальшивые браки. Геста не одобряет фальшив",
     "duration_seconds": 19.28,
-    "file": "audio/audio2/a2-055-soldani-185413.mp3",
+    "file": "audio/audio2/sources/К056_01_Адель_Р3.13_Вы говорите ерунду Брат несколько раз пытался.mp3",
     "sha256": "0674410d06e7655398cad6110f3b75a69abee9f150fe8a7de5cb2eefe612d4c3",
     "note": "",
     "segments": [
       {
         "frame": "056",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 1,
+        "start_seconds": 0.0,
         "end_seconds": 19.28,
+        "timeline_start_frame": 14066,
+        "timeline_end_frame": 14548,
         "text": "Вы говорите ерунду! Брат несколько раз пытался организовать браки с… пожилыми мужчинами, ни один из них не получил благословения богини. Мы оставили эту затею ещё два года назад, когда стало понятно, что обойти проклятие таким образом не получится. Геста не одобряет фальшивые браки.",
-        "playback_file": "audio/audio2/a2-055-soldani-185413.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К056_01_Адель_Вы говорите ерунду Брат несколько раз пытался.wav"
       }
     ],
     "recognition_segments": [
@@ -11831,11 +12209,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T18_54_13_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 925440,
+    "decoded_seconds": 19.28,
+    "selected": true,
+    "filename": "К056_01_Адель_Р3.13_Вы говорите ерунду Брат несколько раз пытался.mp3"
   },
   {
     "id": "audio2-056",
-    "source_filename": "ElevenLabs_2026-11-08T19_07_42_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К057_02_Адель_Р3.15_Не понимаю Как это связано с работой.mp3",
     "source_date": "2026-11-08",
     "source_time": "19:07:42",
     "voice": "Soldani",
@@ -11845,17 +12228,19 @@
     "canonical_text": "Не понимаю… Как это связано с работой?",
     "recognized_text": "Не понимаю, как это связано с работой?",
     "duration_seconds": 3.6,
-    "file": "audio/audio2/a2-056-soldani-190742.mp3",
+    "file": "audio/audio2/sources/К057_02_Адель_Р3.15_Не понимаю Как это связано с работой.mp3",
     "sha256": "5bd25354cfe7373639f6dfa5c9012140bf9190e1e32809864012403f44907136",
     "note": "Подача: Напряжённое недоверие; вопрос с усилием, а не мягкая растерянность.",
     "segments": [
       {
         "frame": "057",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 3.6,
+        "timeline_start_frame": 15688,
+        "timeline_end_frame": 15778,
         "text": "Не понимаю… Как это связано с работой?",
-        "playback_file": "audio/audio2/a2-056-soldani-190742.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К057_02_Адель_Не понимаю Как это связано с работой.wav"
       }
     ],
     "recognition_segments": [
@@ -11911,11 +12296,16 @@
     ],
     "performance_direction": "Напряжённое недоверие; вопрос с усилием, а не мягкая растерянность.",
     "tts_text": "[incredulous, strained] Не понимаю… Как это связано с работой?",
-    "direction_source": "Последние исправления в чате «Сценарий и раскадровка», 8 ноября 2026."
+    "direction_source": "Последние исправления в чате «Сценарий и раскадровка», 8 ноября 2026.",
+    "original_filename": "ElevenLabs_2026-11-08T19_07_42_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 172800,
+    "decoded_seconds": 3.6,
+    "selected": true,
+    "filename": "К057_02_Адель_Р3.15_Не понимаю Как это связано с работой.mp3"
   },
   {
     "id": "audio2-057",
-    "source_filename": "ElevenLabs_2026-11-08T19_08_20_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К058_02_Адель_Р3.17_Что.mp3",
     "source_date": "2026-11-08",
     "source_time": "19:08:20",
     "voice": "Soldani",
@@ -11925,17 +12315,19 @@
     "canonical_text": "Что?",
     "recognized_text": "Слышу. Слышу.",
     "duration_seconds": 1.2,
-    "file": "audio/audio2/a2-057-soldani-190820.mp3",
+    "file": "audio/audio2/sources/К058_02_Адель_Р3.17_Что.mp3",
     "sha256": "493b72c49b78be4b4d96033b8739d09c5fb40ad890f51436b270643ae55bf6c1",
     "note": "",
     "segments": [
       {
         "frame": "058",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 1.2,
+        "timeline_start_frame": 17246,
+        "timeline_end_frame": 17276,
         "text": "Что?",
-        "playback_file": "audio/audio2/a2-057-soldani-190820.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К058_02_Адель_Что.wav"
       }
     ],
     "recognition_segments": [
@@ -11958,11 +12350,16 @@
           }
         ]
       }
-    ]
+    ],
+    "original_filename": "ElevenLabs_2026-11-08T19_08_20_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 57600,
+    "decoded_seconds": 1.2,
+    "selected": true,
+    "filename": "К058_02_Адель_Р3.17_Что.mp3"
   },
   {
     "id": "audio2-058",
-    "source_filename": "ElevenLabs_2026-11-08T19_09_36_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К063_02_Адель_Р3.21_Вы подонок.mp3",
     "source_date": "2026-11-08",
     "source_time": "19:09:36",
     "voice": "Soldani",
@@ -11972,17 +12369,19 @@
     "canonical_text": "Вы — подонок!",
     "recognized_text": "Вы падонок.",
     "duration_seconds": 1.6,
-    "file": "audio/audio2/a2-058-soldani-190936.mp3",
+    "file": "audio/audio2/sources/К063_02_Адель_Р3.21_Вы подонок.mp3",
     "sha256": "50f5307391ae9d153e420cbe34d5d4f4190825c4231495f572cff28a39635bb0",
     "note": "Подача: Отвращение и сдержанный гнев; резкая подача.",
     "segments": [
       {
         "frame": "063",
-        "recording_code": null,
-        "start_seconds": 0,
+        "line_number": 2,
+        "start_seconds": 0.0,
         "end_seconds": 1.6,
+        "timeline_start_frame": 19401,
+        "timeline_end_frame": 19441,
         "text": "Вы — подонок!",
-        "playback_file": "audio/audio2/a2-058-soldani-190936.mp3"
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К063_02_Адель_Вы подонок.wav"
       }
     ],
     "recognition_segments": [
@@ -12008,6 +12407,1170 @@
     ],
     "performance_direction": "Отвращение и сдержанный гнев; резкая подача.",
     "tts_text": "[disgusted, restrained anger, sharp delivery] Вы — подонок!",
-    "direction_source": "Последние исправления в чате «Сценарий и раскадровка», 8 ноября 2026."
+    "direction_source": "Последние исправления в чате «Сценарий и раскадровка», 8 ноября 2026.",
+    "original_filename": "ElevenLabs_2026-11-08T19_09_36_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "decoded_samples": 76800,
+    "decoded_seconds": 1.6,
+    "selected": true,
+    "filename": "К063_02_Адель_Р3.21_Вы подонок.mp3"
+  },
+  {
+    "id": "audio2-059",
+    "original_filename": "ElevenLabs_2026-11-08T23_59_49_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018a_01_Адель_МЫСЛЬ_Это как раз таки несложно устроить.mp3",
+    "sha256": "f8dc0d6ed244b26a502aa4e3aa378481ca1027403c387fd1f550c51568dfee17",
+    "decoded_samples": 126720,
+    "decoded_seconds": 2.64,
+    "speaker": "Адель",
+    "dialogue_id": "thought-018a",
+    "canonical_text": "Это как раз таки несложно устроить.",
+    "recognized_text": "Это как раз таки не сложно устроить.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 2.4,
+        "text": " Это как раз таки не сложно устроить.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.38,
+            "word": " Это",
+            "probability": 0.5908454060554504
+          },
+          {
+            "start": 0.38,
+            "end": 0.5800000000000001,
+            "word": " как",
+            "probability": 0.7761233448982239
+          },
+          {
+            "start": 0.5800000000000001,
+            "end": 0.8,
+            "word": " раз",
+            "probability": 0.918054461479187
+          },
+          {
+            "start": 0.8,
+            "end": 1.12,
+            "word": " таки",
+            "probability": 0.7672580182552338
+          },
+          {
+            "start": 1.12,
+            "end": 1.26,
+            "word": " не",
+            "probability": 0.7525757551193237
+          },
+          {
+            "start": 1.26,
+            "end": 1.6,
+            "word": " сложно",
+            "probability": 0.9251117706298828
+          },
+          {
+            "start": 1.6,
+            "end": 2.4,
+            "word": " устроить.",
+            "probability": 0.982799251874288
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "018a",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 2.64,
+        "timeline_start_frame": 4106,
+        "timeline_end_frame": 4172,
+        "text": "Это как раз таки несложно устроить.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018a_01_Адель_Это как раз таки несложно устроить.wav"
+      }
+    ],
+    "filename": "К018a_01_Адель_МЫСЛЬ_Это как раз таки несложно устроить.mp3",
+    "duration_seconds": 2.64,
+    "file": "audio/audio2/sources/К018a_01_Адель_МЫСЛЬ_Это как раз таки несложно устроить.mp3"
+  },
+  {
+    "id": "audio2-060",
+    "original_filename": "ElevenLabs_2026-11-09T03_11_01_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018b_01_Адель_МЫСЛЬ_Достаточно одного прикосновения и пары мгновений.mp3",
+    "sha256": "ee5e7b35190f5692b045f447fd8a8db255b63154148c399458098a93972acd95",
+    "decoded_samples": 203520,
+    "decoded_seconds": 4.24,
+    "speaker": "Адель",
+    "dialogue_id": "thought-018b",
+    "canonical_text": "Достаточно одного прикосновения и пары мгновений.",
+    "recognized_text": "Достаточно одного прикосновения и паром гновений.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 3.92,
+        "text": " Достаточно одного прикосновения и паром гновений.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.8,
+            "word": " Достаточно",
+            "probability": 0.9178914725780487
+          },
+          {
+            "start": 0.8,
+            "end": 1.32,
+            "word": " одного",
+            "probability": 0.9869510531425476
+          },
+          {
+            "start": 1.32,
+            "end": 2.4,
+            "word": " прикосновения",
+            "probability": 0.9752862900495529
+          },
+          {
+            "start": 2.4,
+            "end": 2.76,
+            "word": " и",
+            "probability": 0.9758960008621216
+          },
+          {
+            "start": 2.76,
+            "end": 3.28,
+            "word": " паром",
+            "probability": 0.6912227421998978
+          },
+          {
+            "start": 3.28,
+            "end": 3.92,
+            "word": " гновений.",
+            "probability": 0.6086013317108154
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "018b",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 4.24,
+        "timeline_start_frame": 4196,
+        "timeline_end_frame": 4302,
+        "text": "Достаточно одного прикосновения и пары мгновений.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018b_01_Адель_Достаточно одного прикосновения и пары мгновений.wav"
+      }
+    ],
+    "filename": "К018b_01_Адель_МЫСЛЬ_Достаточно одного прикосновения и пары мгновений.mp3",
+    "duration_seconds": 4.24,
+    "file": "audio/audio2/sources/К018b_01_Адель_МЫСЛЬ_Достаточно одного прикосновения и пары мгновений.mp3"
+  },
+  {
+    "id": "audio2-061",
+    "original_filename": "ElevenLabs_2026-11-09T04_38_13_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К018d_01_Адель_МЫСЛЬ_Хотя кажется даже на пике самой высокой.mp3",
+    "sha256": "f0e6555938f05a0432c36dfff4e8fafd7d3d1ea14df0b3598d83479e8be77251",
+    "decoded_samples": 337920,
+    "decoded_seconds": 7.04,
+    "speaker": "Адель",
+    "dialogue_id": "thought-018d",
+    "canonical_text": "Хотя, кажется, даже на пике самой высокой горы и то больше тепла, чем в душе у этого гада.",
+    "recognized_text": "Хотя, кажется, даже на пике самой высокой горы и то больше тепла, чем в душе у этого гада.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 6.6,
+        "text": " Хотя, кажется, даже на пике самой высокой горы и то больше тепла, чем в душе у этого гада.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.4,
+            "word": " Хотя,",
+            "probability": 0.9439675211906433
+          },
+          {
+            "start": 0.6399999999999999,
+            "end": 0.9199999999999999,
+            "word": " кажется,",
+            "probability": 0.9878645539283752
+          },
+          {
+            "start": 0.98,
+            "end": 1.26,
+            "word": " даже",
+            "probability": 0.9433228373527527
+          },
+          {
+            "start": 1.26,
+            "end": 1.42,
+            "word": " на",
+            "probability": 0.8964102268218994
+          },
+          {
+            "start": 1.42,
+            "end": 1.7400000000000002,
+            "word": " пике",
+            "probability": 0.8877896070480347
+          },
+          {
+            "start": 1.7400000000000002,
+            "end": 2.18,
+            "word": " самой",
+            "probability": 0.5216295123100281
+          },
+          {
+            "start": 2.18,
+            "end": 2.76,
+            "word": " высокой",
+            "probability": 0.7903338074684143
+          },
+          {
+            "start": 2.76,
+            "end": 3.22,
+            "word": " горы",
+            "probability": 0.9869422912597656
+          },
+          {
+            "start": 3.22,
+            "end": 3.46,
+            "word": " и",
+            "probability": 0.564955472946167
+          },
+          {
+            "start": 3.46,
+            "end": 3.8,
+            "word": " то",
+            "probability": 0.9176629781723022
+          },
+          {
+            "start": 3.8,
+            "end": 4.18,
+            "word": " больше",
+            "probability": 0.9126984477043152
+          },
+          {
+            "start": 4.18,
+            "end": 4.64,
+            "word": " тепла,",
+            "probability": 0.9815556704998016
+          },
+          {
+            "start": 4.82,
+            "end": 5.1,
+            "word": " чем",
+            "probability": 0.9818083643913269
+          },
+          {
+            "start": 5.1,
+            "end": 5.3,
+            "word": " в",
+            "probability": 0.9363818764686584
+          },
+          {
+            "start": 5.3,
+            "end": 5.72,
+            "word": " душе",
+            "probability": 0.7192271848519644
+          },
+          {
+            "start": 5.72,
+            "end": 5.88,
+            "word": " у",
+            "probability": 0.6652699708938599
+          },
+          {
+            "start": 5.88,
+            "end": 6.08,
+            "word": " этого",
+            "probability": 0.9980384707450867
+          },
+          {
+            "start": 6.08,
+            "end": 6.6,
+            "word": " гада.",
+            "probability": 0.934157133102417
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "018d",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 7.04,
+        "timeline_start_frame": 4573,
+        "timeline_end_frame": 4749,
+        "text": "Хотя, кажется, даже на пике самой высокой горы и то больше тепла, чем в душе у этого гада.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К018d_01_Адель_Хотя кажется даже на пике самой высокой.wav"
+      }
+    ],
+    "filename": "К018d_01_Адель_МЫСЛЬ_Хотя кажется даже на пике самой высокой.mp3",
+    "duration_seconds": 7.04,
+    "file": "audio/audio2/sources/К018d_01_Адель_МЫСЛЬ_Хотя кажется даже на пике самой высокой.mp3"
+  },
+  {
+    "id": "audio2-062",
+    "original_filename": "ElevenLabs_2026-11-09T04_39_08_Soldani - Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К072_01_Адель_МЫСЛЬ_Но что теперь делать Как вернуться к.mp3",
+    "sha256": "9fc09410105872a663edd2a5a3ff0cc538310e98052badcd6e8922b2008d8591",
+    "decoded_samples": 537600,
+    "decoded_seconds": 11.2,
+    "speaker": "Адель",
+    "dialogue_id": "thought-072",
+    "canonical_text": "Но что теперь делать? Как вернуться к Брену и признать, что все усилия, потраченные на получение этого назначения, напрасны? И что будет с имением, если я не найду работу?",
+    "recognized_text": "Ну что теперь делать? Как вернуться к брену и признать, что все усилия, потраченные наполучения этого назначения, напрасные? И что будет с имением, если я не найду работу?",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 7.539999999999999,
+        "text": " Ну что теперь делать? Как вернуться к брену и признать, что все усилия, потраченные наполучения этого назначения, напрасные?",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.26,
+            "word": " Ну",
+            "probability": 0.8493967056274414
+          },
+          {
+            "start": 0.26,
+            "end": 0.52,
+            "word": " что",
+            "probability": 0.6376437544822693
+          },
+          {
+            "start": 0.52,
+            "end": 0.8600000000000001,
+            "word": " теперь",
+            "probability": 0.8588736057281494
+          },
+          {
+            "start": 0.8600000000000001,
+            "end": 1.4,
+            "word": " делать?",
+            "probability": 0.9816824197769165
+          },
+          {
+            "start": 2.08,
+            "end": 2.2,
+            "word": " Как",
+            "probability": 0.9686126708984375
+          },
+          {
+            "start": 2.2,
+            "end": 2.66,
+            "word": " вернуться",
+            "probability": 0.9904458224773407
+          },
+          {
+            "start": 2.66,
+            "end": 2.86,
+            "word": " к",
+            "probability": 0.9981914162635803
+          },
+          {
+            "start": 2.86,
+            "end": 3.16,
+            "word": " брену",
+            "probability": 0.8313647309939066
+          },
+          {
+            "start": 3.16,
+            "end": 3.26,
+            "word": " и",
+            "probability": 0.8352376818656921
+          },
+          {
+            "start": 3.26,
+            "end": 3.7,
+            "word": " признать,",
+            "probability": 0.9144359032313029
+          },
+          {
+            "start": 3.7199999999999998,
+            "end": 3.8600000000000003,
+            "word": " что",
+            "probability": 0.9971107244491577
+          },
+          {
+            "start": 3.8600000000000003,
+            "end": 4.2,
+            "word": " все",
+            "probability": 0.9599462151527405
+          },
+          {
+            "start": 4.2,
+            "end": 4.78,
+            "word": " усилия,",
+            "probability": 0.9545297622680664
+          },
+          {
+            "start": 4.88,
+            "end": 5.34,
+            "word": " потраченные",
+            "probability": 0.8289073904355367
+          },
+          {
+            "start": 5.34,
+            "end": 5.88,
+            "word": " наполучения",
+            "probability": 0.7273080237209797
+          },
+          {
+            "start": 5.88,
+            "end": 6.2,
+            "word": " этого",
+            "probability": 0.9797350168228149
+          },
+          {
+            "start": 6.2,
+            "end": 6.82,
+            "word": " назначения,",
+            "probability": 0.9930363893508911
+          },
+          {
+            "start": 6.94,
+            "end": 7.539999999999999,
+            "word": " напрасные?",
+            "probability": 0.8076592485109965
+          }
+        ]
+      },
+      {
+        "start": 8.28,
+        "end": 10.66,
+        "text": " И что будет с имением, если я не найду работу?",
+        "words": [
+          {
+            "start": 8.28,
+            "end": 8.4,
+            "word": " И",
+            "probability": 0.9360402226448059
+          },
+          {
+            "start": 8.4,
+            "end": 8.62,
+            "word": " что",
+            "probability": 0.9672885537147522
+          },
+          {
+            "start": 8.62,
+            "end": 8.86,
+            "word": " будет",
+            "probability": 0.9948766827583313
+          },
+          {
+            "start": 8.86,
+            "end": 9.06,
+            "word": " с",
+            "probability": 0.5943939089775085
+          },
+          {
+            "start": 9.06,
+            "end": 9.42,
+            "word": " имением,",
+            "probability": 0.6083893775939941
+          },
+          {
+            "start": 9.62,
+            "end": 9.78,
+            "word": " если",
+            "probability": 0.9949374198913574
+          },
+          {
+            "start": 9.78,
+            "end": 9.94,
+            "word": " я",
+            "probability": 0.9893894791603088
+          },
+          {
+            "start": 9.94,
+            "end": 10.04,
+            "word": " не",
+            "probability": 0.9429442286491394
+          },
+          {
+            "start": 10.04,
+            "end": 10.32,
+            "word": " найду",
+            "probability": 0.9893438220024109
+          },
+          {
+            "start": 10.32,
+            "end": 10.66,
+            "word": " работу?",
+            "probability": 0.9954511523246765
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "072",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 11.2,
+        "timeline_start_frame": 20991,
+        "timeline_end_frame": 21271,
+        "text": "Но что теперь делать? Как вернуться к Брену и признать, что все усилия, потраченные на получение этого назначения, напрасны? И что будет с имением, если я не найду работу?",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К072_01_Адель_Но что теперь делать Как вернуться к.wav"
+      }
+    ],
+    "filename": "К072_01_Адель_МЫСЛЬ_Но что теперь делать Как вернуться к.mp3",
+    "duration_seconds": 11.2,
+    "file": "audio/audio2/sources/К072_01_Адель_МЫСЛЬ_Но что теперь делать Как вернуться к.mp3"
+  },
+  {
+    "id": "audio2-063",
+    "original_filename": "ElevenLabs_2026-11-09T04_41_15_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К021_01_Кеммер_МЫСЛЬ_Вот драконово дерьмо.mp3",
+    "sha256": "25ecfac7d11778d99a3ef1d3574c79975a0369012c955e56670239c2df5aad96",
+    "decoded_samples": 111360,
+    "decoded_seconds": 2.32,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-021",
+    "canonical_text": "Вот драконово дерьмо!",
+    "recognized_text": "Вот драконова дерьмо.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 1.8599999999999999,
+        "text": " Вот драконова дерьмо.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.43999999999999995,
+            "word": " Вот",
+            "probability": 0.7016703486442566
+          },
+          {
+            "start": 0.43999999999999995,
+            "end": 1.34,
+            "word": " драконова",
+            "probability": 0.7078871577978134
+          },
+          {
+            "start": 1.34,
+            "end": 1.8599999999999999,
+            "word": " дерьмо.",
+            "probability": 0.8486024538675944
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "021",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 2.32,
+        "timeline_start_frame": 6305,
+        "timeline_end_frame": 6363,
+        "text": "Вот драконово дерьмо!",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К021_01_Кеммер_Вот драконово дерьмо.wav"
+      }
+    ],
+    "filename": "К021_01_Кеммер_МЫСЛЬ_Вот драконово дерьмо.mp3",
+    "duration_seconds": 2.32,
+    "file": "audio/audio2/sources/К021_01_Кеммер_МЫСЛЬ_Вот драконово дерьмо.mp3"
+  },
+  {
+    "id": "audio2-064",
+    "original_filename": "ElevenLabs_2026-11-09T04_55_36_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К025_01_Кеммер_МЫСЛЬ_Едва исполнилось двадцать три года.mp3",
+    "sha256": "b676f9b8f85debe077d96f7a652492f252b71b844cb184fffd31f2e9e7996d1d",
+    "decoded_samples": 149760,
+    "decoded_seconds": 3.12,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-025",
+    "canonical_text": "Едва исполнилось двадцать три года.",
+    "recognized_text": "Едва исполнилась 23 года.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 2.84,
+        "text": " Едва исполнилась 23 года.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.56,
+            "word": " Едва",
+            "probability": 0.8371864557266235
+          },
+          {
+            "start": 0.56,
+            "end": 1.32,
+            "word": " исполнилась",
+            "probability": 0.7501734524965287
+          },
+          {
+            "start": 1.32,
+            "end": 2.4,
+            "word": " 23",
+            "probability": 0.7443150281906128
+          },
+          {
+            "start": 2.4,
+            "end": 2.84,
+            "word": " года.",
+            "probability": 0.9916461110115051
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "025",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.12,
+        "timeline_start_frame": 6646,
+        "timeline_end_frame": 6724,
+        "text": "Едва исполнилось двадцать три года.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К025_01_Кеммер_Едва исполнилось двадцать три года.wav"
+      }
+    ],
+    "filename": "К025_01_Кеммер_МЫСЛЬ_Едва исполнилось двадцать три года.mp3",
+    "duration_seconds": 3.12,
+    "file": "audio/audio2/sources/К025_01_Кеммер_МЫСЛЬ_Едва исполнилось двадцать три года.mp3"
+  },
+  {
+    "id": "audio2-065",
+    "original_filename": "ElevenLabs_2026-11-09T05_00_04_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К027_01_Кеммер_МЫСЛЬ_Был ранен Лечусь Навещать не нужно Подробности.mp3",
+    "sha256": "26f729cc63a34d91c4d6097b9f92b9d9cde5a21fd204996a950d8829aa51c8ce",
+    "decoded_samples": 280320,
+    "decoded_seconds": 5.84,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-027",
+    "canonical_text": "Был ранен. Лечусь. Навещать не нужно. Подробности позже. Ирвен.",
+    "recognized_text": "был ранен, лечусь, навещать не нужно, подробности позже, ирвен.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 5.58,
+        "text": " был ранен, лечусь, навещать не нужно, подробности позже, ирвен.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.43999999999999995,
+            "word": " был",
+            "probability": 0.24370388686656952
+          },
+          {
+            "start": 0.43999999999999995,
+            "end": 0.8600000000000001,
+            "word": " ранен,",
+            "probability": 0.9365279376506805
+          },
+          {
+            "start": 1.46,
+            "end": 1.92,
+            "word": " лечусь,",
+            "probability": 0.8827990293502808
+          },
+          {
+            "start": 2.4,
+            "end": 2.74,
+            "word": " навещать",
+            "probability": 0.9899810552597046
+          },
+          {
+            "start": 2.74,
+            "end": 2.9,
+            "word": " не",
+            "probability": 0.9554756283760071
+          },
+          {
+            "start": 2.9,
+            "end": 3.18,
+            "word": " нужно,",
+            "probability": 0.9713733196258545
+          },
+          {
+            "start": 3.88,
+            "end": 4.3,
+            "word": " подробности",
+            "probability": 0.9654412666956583
+          },
+          {
+            "start": 4.3,
+            "end": 4.8,
+            "word": " позже,",
+            "probability": 0.9908046424388885
+          },
+          {
+            "start": 5.3,
+            "end": 5.58,
+            "word": " ирвен.",
+            "probability": 0.690991498529911
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "027",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 5.84,
+        "timeline_start_frame": 6850,
+        "timeline_end_frame": 6996,
+        "text": "Был ранен. Лечусь. Навещать не нужно. Подробности позже. Ирвен.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К027_01_Кеммер_Был ранен Лечусь Навещать не нужно Подробности.wav"
+      }
+    ],
+    "filename": "К027_01_Кеммер_МЫСЛЬ_Был ранен Лечусь Навещать не нужно Подробности.mp3",
+    "duration_seconds": 5.84,
+    "file": "audio/audio2/sources/К027_01_Кеммер_МЫСЛЬ_Был ранен Лечусь Навещать не нужно Подробности.mp3"
+  },
+  {
+    "id": "audio2-066",
+    "original_filename": "ElevenLabs_2026-11-09T05_18_32_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К033_01_Кеммер_МЫСЛЬ_М-61 они что ли отремонтировали.mp3",
+    "sha256": "adcbabd829bcad01e58c956bacea81bc027ec485290c7b04d751fd4fa906eb5c",
+    "decoded_samples": 168960,
+    "decoded_seconds": 3.52,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-033",
+    "canonical_text": "М-61 они, что ли, отремонтировали?",
+    "recognized_text": "М61, они что ли отремонтировали?",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 3.12,
+        "text": " М61, они что ли отремонтировали?",
+        "words": [
+          {
+            "start": 0,
+            "end": 1.14,
+            "word": " М61,",
+            "probability": 0.7684646546840668
+          },
+          {
+            "start": 1.7599999999999998,
+            "end": 1.98,
+            "word": " они",
+            "probability": 0.6141977906227112
+          },
+          {
+            "start": 1.98,
+            "end": 2.2,
+            "word": " что",
+            "probability": 0.9722569584846497
+          },
+          {
+            "start": 2.2,
+            "end": 2.32,
+            "word": " ли",
+            "probability": 0.986873209476471
+          },
+          {
+            "start": 2.32,
+            "end": 3.12,
+            "word": " отремонтировали?",
+            "probability": 0.9035801291465759
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "033",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.52,
+        "timeline_start_frame": 8255,
+        "timeline_end_frame": 8343,
+        "text": "М-61 они, что ли, отремонтировали?",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К033_01_Кеммер_М-61 они что ли отремонтировали.wav"
+      }
+    ],
+    "filename": "К033_01_Кеммер_МЫСЛЬ_М-61 они что ли отремонтировали.mp3",
+    "duration_seconds": 3.52,
+    "file": "audio/audio2/sources/К033_01_Кеммер_МЫСЛЬ_М-61 они что ли отремонтировали.mp3"
+  },
+  {
+    "id": "audio2-067",
+    "original_filename": "ElevenLabs_2026-11-09T05_19_31_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К034_01_Кеммер_МЫСЛЬ_Так быстро Надо сходить проверить.mp3",
+    "sha256": "8f088b145ef693205ea636a86edcb10dc36c70dedbee6fd6ee918b8b7538bc10",
+    "decoded_samples": 145920,
+    "decoded_seconds": 3.04,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-034",
+    "canonical_text": "Так быстро? Надо сходить проверить.",
+    "recognized_text": "Так быстро! Надо сходить проверить!",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 2.66,
+        "text": " Так быстро! Надо сходить проверить!",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.28,
+            "word": " Так",
+            "probability": 0.7652993202209473
+          },
+          {
+            "start": 0.28,
+            "end": 0.74,
+            "word": " быстро!",
+            "probability": 0.9922539591789246
+          },
+          {
+            "start": 1.32,
+            "end": 1.7200000000000002,
+            "word": " Надо",
+            "probability": 0.9803487658500671
+          },
+          {
+            "start": 1.7200000000000002,
+            "end": 2.1,
+            "word": " сходить",
+            "probability": 0.8925258119901022
+          },
+          {
+            "start": 2.1,
+            "end": 2.66,
+            "word": " проверить!",
+            "probability": 0.8077455163002014
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "034",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.04,
+        "timeline_start_frame": 8372,
+        "timeline_end_frame": 8448,
+        "text": "Так быстро? Надо сходить проверить.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К034_01_Кеммер_Так быстро Надо сходить проверить.wav"
+      }
+    ],
+    "filename": "К034_01_Кеммер_МЫСЛЬ_Так быстро Надо сходить проверить.mp3",
+    "duration_seconds": 3.04,
+    "file": "audio/audio2/sources/К034_01_Кеммер_МЫСЛЬ_Так быстро Надо сходить проверить.mp3"
+  },
+  {
+    "id": "audio2-068",
+    "original_filename": "ElevenLabs_2026-11-09T05_20_01_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К038_02_Кеммер_МЫСЛЬ_Неужели она сама не понимает.mp3",
+    "sha256": "fdd7fa8f7cd91586d0218b795124a8b359b32e71d9a8777fa0c3662ee475e24a",
+    "decoded_samples": 115200,
+    "decoded_seconds": 2.4,
+    "speaker": "Кеммер",
+    "dialogue_id": "thought-038",
+    "canonical_text": "Неужели она сама не понимает?",
+    "recognized_text": "Неужели она сама не понимает?",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 2.06,
+        "text": " Неужели она сама не понимает?",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.74,
+            "word": " Неужели",
+            "probability": 0.9570406874020895
+          },
+          {
+            "start": 0.74,
+            "end": 0.9199999999999999,
+            "word": " она",
+            "probability": 0.9752285480499268
+          },
+          {
+            "start": 0.9199999999999999,
+            "end": 1.3,
+            "word": " сама",
+            "probability": 0.9640365242958069
+          },
+          {
+            "start": 1.3,
+            "end": 1.52,
+            "word": " не",
+            "probability": 0.9881253242492676
+          },
+          {
+            "start": 1.52,
+            "end": 2.06,
+            "word": " понимает?",
+            "probability": 0.9869709014892578
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "038",
+        "line_number": 2,
+        "start_seconds": 0.0,
+        "end_seconds": 2.4,
+        "timeline_start_frame": 9661,
+        "timeline_end_frame": 9721,
+        "text": "Неужели она сама не понимает?",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К038_02_Кеммер_Неужели она сама не понимает.wav"
+      }
+    ],
+    "filename": "К038_02_Кеммер_МЫСЛЬ_Неужели она сама не понимает.mp3",
+    "duration_seconds": 2.4,
+    "file": "audio/audio2/sources/К038_02_Кеммер_МЫСЛЬ_Неужели она сама не понимает.mp3"
+  },
+  {
+    "id": "audio2-069",
+    "original_filename": "ElevenLabs_2026-11-09T05_20_17_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К069_01_Кеммер_Р3.24_Доставь нобларину в Кербенн сдай на руки.mp3",
+    "sha256": "c1f40d96922946fb0630af6dabd3627fd6cfe319d703d463d7af231e084cb3d7",
+    "decoded_samples": 426240,
+    "decoded_seconds": 8.88,
+    "speaker": "Кеммер",
+    "dialogue_id": "3.24",
+    "canonical_text": "Доставь нобларину в Кербенн, сдай на руки сёстрам или брату. За её безопасность отвечаешь головой. И не гони сильно, а то её продует.",
+    "recognized_text": "Достав на Блорину в Кербен, сдай на руки с сестром и лебрату, за ее безопасность, отвечаешь головой, и негонись сильно, а то ее продует.",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 8.6,
+        "text": " Достав на Блорину в Кербен, сдай на руки с сестром и лебрату, за ее безопасность, отвечаешь головой, и негонись сильно, а то ее продует.",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.5,
+            "word": " Достав",
+            "probability": 0.6655700653791428
+          },
+          {
+            "start": 0.5,
+            "end": 0.6799999999999999,
+            "word": " на",
+            "probability": 0.9624208211898804
+          },
+          {
+            "start": 0.6799999999999999,
+            "end": 0.96,
+            "word": " Блорину",
+            "probability": 0.7595515698194504
+          },
+          {
+            "start": 0.96,
+            "end": 1.1,
+            "word": " в",
+            "probability": 0.9156952500343323
+          },
+          {
+            "start": 1.1,
+            "end": 1.44,
+            "word": " Кербен,",
+            "probability": 0.7696510354677836
+          },
+          {
+            "start": 1.88,
+            "end": 2.08,
+            "word": " сдай",
+            "probability": 0.7858943939208984
+          },
+          {
+            "start": 2.08,
+            "end": 2.2,
+            "word": " на",
+            "probability": 0.9924815893173218
+          },
+          {
+            "start": 2.2,
+            "end": 2.38,
+            "word": " руки",
+            "probability": 0.9121242761611938
+          },
+          {
+            "start": 2.38,
+            "end": 2.56,
+            "word": " с",
+            "probability": 0.7600190043449402
+          },
+          {
+            "start": 2.56,
+            "end": 2.88,
+            "word": " сестром",
+            "probability": 0.726768285036087
+          },
+          {
+            "start": 2.88,
+            "end": 3.0,
+            "word": " и",
+            "probability": 0.7983051538467407
+          },
+          {
+            "start": 3.0,
+            "end": 3.38,
+            "word": " лебрату,",
+            "probability": 0.6063058972358704
+          },
+          {
+            "start": 3.76,
+            "end": 4.02,
+            "word": " за",
+            "probability": 0.9731911420822144
+          },
+          {
+            "start": 4.02,
+            "end": 4.3,
+            "word": " ее",
+            "probability": 0.6107857823371887
+          },
+          {
+            "start": 4.3,
+            "end": 5.04,
+            "word": " безопасность,",
+            "probability": 0.9878655672073364
+          },
+          {
+            "start": 5.16,
+            "end": 5.64,
+            "word": " отвечаешь",
+            "probability": 0.947332501411438
+          },
+          {
+            "start": 5.64,
+            "end": 6.2,
+            "word": " головой,",
+            "probability": 0.9722301959991455
+          },
+          {
+            "start": 6.44,
+            "end": 6.66,
+            "word": " и",
+            "probability": 0.9774689078330994
+          },
+          {
+            "start": 6.66,
+            "end": 7.14,
+            "word": " негонись",
+            "probability": 0.5958473160862923
+          },
+          {
+            "start": 7.14,
+            "end": 7.44,
+            "word": " сильно,",
+            "probability": 0.9184895157814026
+          },
+          {
+            "start": 7.720000000000001,
+            "end": 7.82,
+            "word": " а",
+            "probability": 0.9376804828643799
+          },
+          {
+            "start": 7.82,
+            "end": 7.9,
+            "word": " то",
+            "probability": 0.970969557762146
+          },
+          {
+            "start": 7.9,
+            "end": 8.1,
+            "word": " ее",
+            "probability": 0.9438794851303101
+          },
+          {
+            "start": 8.1,
+            "end": 8.6,
+            "word": " продует.",
+            "probability": 0.8862435519695282
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "069",
+        "line_number": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 8.88,
+        "timeline_start_frame": 20372,
+        "timeline_end_frame": 20594,
+        "text": "Доставь нобларину в Кербенн, сдай на руки сёстрам или брату. За её безопасность отвечаешь головой. И не гони сильно, а то её продует.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К069_01_Кеммер_Доставь нобларину в Кербенн сдай на руки.wav"
+      }
+    ],
+    "filename": "К069_01_Кеммер_Р3.24_Доставь нобларину в Кербенн сдай на руки.mp3",
+    "duration_seconds": 8.88,
+    "file": "audio/audio2/sources/К069_01_Кеммер_Р3.24_Доставь нобларину в Кербенн сдай на руки.mp3"
+  },
+  {
+    "id": "audio2-070",
+    "original_filename": "ElevenLabs_2026-11-09T06_30_37_Stanislav - Deep, Empathetic and Warm_pvc_s50_sim75_v4.mp3",
+    "source_filename": "К069_02_Шофёр_Р3.25_Так точно.mp3",
+    "sha256": "a21ba9bdd06ea68cdda7ee1ab35c4ce14c4d80b13ea6503aaf24e83630652030",
+    "decoded_samples": 53760,
+    "decoded_seconds": 1.12,
+    "speaker": "Водитель",
+    "dialogue_id": "3.25",
+    "canonical_text": "Так точно.",
+    "recognized_text": "Так точно!",
+    "recognition_segments": [
+      {
+        "start": 0,
+        "end": 0.6200000000000001,
+        "text": " Так точно!",
+        "words": [
+          {
+            "start": 0,
+            "end": 0.26,
+            "word": " Так",
+            "probability": 0.7462912201881409
+          },
+          {
+            "start": 0.26,
+            "end": 0.6200000000000001,
+            "word": " точно!",
+            "probability": 0.935172975063324
+          }
+        ]
+      }
+    ],
+    "selected": true,
+    "note": "",
+    "segments": [
+      {
+        "frame": "069",
+        "line_number": 2,
+        "start_seconds": 0.0,
+        "end_seconds": 1.12,
+        "timeline_start_frame": 20600,
+        "timeline_end_frame": 20628,
+        "text": "Так точно.",
+        "playback_file": "Монтаж_25fps/Аудио_по_кадрам/К069_02_Шофёр_Так точно.wav"
+      }
+    ],
+    "filename": "К069_02_Шофёр_Р3.25_Так точно.mp3",
+    "duration_seconds": 1.12,
+    "file": "audio/audio2/sources/К069_02_Шофёр_Р3.25_Так точно.mp3"
   }
 ]

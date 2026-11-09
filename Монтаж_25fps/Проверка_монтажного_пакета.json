@@ -1,0 +1,19 @@
+{
+  "source_hashes_verified": 70,
+  "renamed_sources": 70,
+  "reserve_sources": 2,
+  "selected_audio_restored_exactly_from_clips": 68,
+  "script_frames": 77,
+  "clips": 74,
+  "spoken_replicas": 57,
+  "internal_voice_fragments": 11,
+  "video_frames": 21321,
+  "fps": 25,
+  "duration_seconds": 852.84,
+  "guide_sample_count": 40936320,
+  "guide_duration_matches_video": true,
+  "html_audio_links_verified": 148,
+  "xlsx_sheets": 3,
+  "formula_error_cells": 0,
+  "previous_scenario_preserved": true
+}
