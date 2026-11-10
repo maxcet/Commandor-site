@@ -1,0 +1,24 @@
+КАДР 022 — Посетительница не уходит
+
+Серии: 5
+
+00:04:15:05 — 00:04:18:05; 3.000 с
+
+Исходное действие: Адель едва переступает для равновесия и вновь замирает перед столом. Обе ступни на полу, подол колышется. Шага к выходу нет.
+
+Генерация: GEN022_01
+Flow: 4 с; 9:16
+Начальный кадр — К022.jpg.
+Монтаж: 00:04:15:05 — 00:04:18:05
+Из источника: 0.000 — 3.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 4-second shot.
+START FRAME: Use the supplied storyboard image for frame 022 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Adele shifts her weight once to regain balance, both feet remaining on the floor. Her hem settles. She takes no step toward the exit.
+CAMERA: A low locked insert on Adele’s shoes and dress hem.
+PERFORMANCE: She is staying despite his expectation that she leave.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

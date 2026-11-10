@@ -1,0 +1,78 @@
+КАДР 017 — Ледяной взгляд
+
+Серии: 3
+
+00:01:57:16 — 00:02:21:21; 24.200 с
+
+Исходное действие: Ответ продолжается. В очень крупном плане заметны только моргание и минимальные движения глаз; рот вне кадра. Сочувствия он не показывает.
+
+Генерация: GEN017_01
+Flow: 6 с; 9:16
+Начальный кадр — К017.jpg.
+Монтаж: 00:01:57:16 — 00:02:03:16
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the supplied storyboard image for frame 017 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Hold Kemmer’s steady gaze while his explanation continues off-screen. One natural blink is enough.
+CAMERA: An extreme close-up of Kemmer’s eyes with a very slow push. His mouth stays outside the frame.
+PERFORMANCE: Cold attention with no visible sympathy.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN017_02
+Flow: 6 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN017_01. Не начинайте заново с картинки К017.jpg.
+Монтаж: 00:02:03:16 — 00:02:09:16
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Continue the same eye detail. A tiny shift in focus suggests that he is assessing Adele without changing his expression.
+CAMERA: An extreme close-up of Kemmer’s eyes with a very slow push. His mouth stays outside the frame.
+PERFORMANCE: Cold attention with no visible sympathy.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN017_03
+Flow: 6 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN017_02. Не начинайте заново с картинки К017.jpg.
+Монтаж: 00:02:09:16 — 00:02:15:16
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: His eyes return to their initial eyeline; retain the same lighting and facial markings.
+CAMERA: An extreme close-up of Kemmer’s eyes with a very slow push. His mouth stays outside the frame.
+PERFORMANCE: Cold attention with no visible sympathy.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN017_04
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN017_03. Не начинайте заново с картинки К017.jpg.
+Монтаж: 00:02:15:16 — 00:02:21:21
+Из источника: 0.000 — 6.200 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: End on still, unyielding eyes. Keep his mouth outside the composition and avoid a new gesture or expression change.
+CAMERA: An extreme close-up of Kemmer’s eyes with a very slow push. His mouth stays outside the frame.
+PERFORMANCE: Cold attention with no visible sympathy.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

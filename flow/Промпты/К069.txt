@@ -1,0 +1,42 @@
+КАДР 069 — Приказ шофёру
+
+Серии: 14
+
+00:13:33:22 — 00:13:48:03; 14.240 с
+
+Исходное действие: После пропуска примерно пяти минут Кеммер возвращается с пожилым водителем и отдаёт приказ. Водитель в чёрной форме стоит снаружи машины, обеими ногами на мостовой; отвечает и лишь затем обходит дверь и занимает водительское место. Адель остаётся на заднем диване; машина не трогается.
+
+Генерация: GEN069_01
+Flow: 8 с; 9:16
+Начальный кадр — К069.jpg.
+Монтаж: 00:13:33:22 — 00:13:41:22
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow. Пятиминутный пропуск в истории — обычная склейка; не генерировать пять минут ожидания.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the supplied storyboard image for frame 069 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: At the later story moment, Kemmer is already back with the elderly driver. The driver stands wholly outside in black uniform, both feet on the paving. Kemmer addresses him while Adele remains seated in back.
+CAMERA: Keep the approved exterior group view beside the parked vehicle; follow the driver’s short approach only within the same setup.
+PERFORMANCE: Kemmer’s strict instruction unexpectedly expresses concern for Adele’s safety.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels. The elderly driver wears the same black tunic, trousers, cap and boots. Before entering, he is wholly outside with both feet on the paving. He acknowledges the order before taking the front seat; the engine remains off.
+MOUTH: For later dubbing only, approximate visual speaking turns: 1.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN069_02
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN069_01. Не начинайте заново с картинки К069.jpg.
+Монтаж: 00:13:41:22 — 00:13:48:03
+Из источника: 0.000 — 6.240 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: The driver gives one short acknowledgement, then moves around the open door and starts a physically plausible entry to the front seat. Kemmer stays outside. Keep feet, torso, hinged door and wheel clear of one another; the vehicle remains parked.
+CAMERA: Keep the approved exterior group view beside the parked vehicle; follow the driver’s short approach only within the same setup.
+PERFORMANCE: Kemmer’s strict instruction unexpectedly expresses concern for Adele’s safety.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels. The elderly driver wears the same black tunic, trousers, cap and boots. Before entering, he is wholly outside with both feet on the paving. He acknowledges the order before taking the front seat; the engine remains off.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–1.880 s: Kemmer uses restrained, unvoiced speech articulation; 2.120–3.240 s: the elderly driver uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

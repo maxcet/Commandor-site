@@ -1,0 +1,24 @@
+КАДР 068 — На заднем сиденье
+
+Серии: 14
+
+00:13:27:22 — 00:13:33:22; 6.000 с
+
+Исходное действие: Адель садится на задний диван и опускает голову, пряча слёзы. Кеммер отпускает локоть, остаётся снаружи и приказывает ждать. Она крепче прижимает документы, не пытаясь выйти.
+
+Генерация: GEN068_01
+Flow: 6 с; 9:16
+Начальный кадр — К068.jpg.
+Монтаж: 00:13:27:22 — 00:13:33:22
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the supplied storyboard image for frame 068 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Adele completes sitting on the rear bench and lowers her head. Kemmer releases her elbow and stays outside, giving his order from outside the image. She holds her papers close and makes no attempt to leave.
+CAMERA: View through the rear opening with a small push toward seated Adele.
+PERFORMANCE: She hides her tears and obeys the order to wait.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

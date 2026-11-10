@@ -1,0 +1,24 @@
+КАДР 071 — Последние слова у дверцы
+
+Серии: 14
+
+00:13:52:03 — 00:13:58:16; 6.520 с
+
+Исходное действие: Кеммер бросает плед на свободное место рядом с Адель и произносит последние слова. Она сжимает челюсти, отворачивается к противоположному открытому проёму, не отвечая. Документы остаются на коленях.
+
+Генерация: GEN071_01
+Flow: 8 с; 9:16
+Начальный кадр — К071.jpg.
+Монтаж: 00:13:52:03 — 00:13:58:16
+Из источника: 0.000 — 6.520 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the supplied storyboard image for frame 071 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Kemmer tosses the dark blanket onto the empty space beside Adele, not over her. He finishes his farewell. She tightens her jaw and turns toward the opposite open side, without answering. Her documents remain on her lap.
+CAMERA: An exterior view at the open doorway. After Kemmer’s final remark, transfer focus to Adele.
+PERFORMANCE: His words remain dry; her hurt becomes silent anger rather than reconciliation.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.800–5.520 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

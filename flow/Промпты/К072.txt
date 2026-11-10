@@ -1,0 +1,42 @@
+КАДР 072 — Что теперь делать
+
+Серии: 14
+
+00:13:58:16 — 00:14:12:21; 14.200 с
+
+Исходное действие: Адель смотрит в синий вечер сквозь проём без стекла. В глазах слёзы; пальцы сжимают документы, дыхание замирает. Плед рядом. Машина на месте: поездку и возвращение домой не показывать.
+
+Генерация: GEN072_01
+Flow: 8 с; 9:16
+Начальный кадр — К072.jpg.
+Монтаж: 00:13:58:16 — 00:14:06:16
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the supplied storyboard image for frame 072 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Adele looks into the blue evening through the glass-free opening. Tears sit in her eyes; her fingers tighten on the papers. The blanket remains beside her and her lips are still.
+CAMERA: A slow push toward Adele’s profile looking through the open side; finish in a stable image for the editor’s fade.
+PERFORMANCE: A silent, worried reckoning about work and the estate, with unresolved stakes.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN072_02
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN072_01. Не начинайте заново с картинки К072.jpg.
+Монтаж: 00:14:06:16 — 00:14:12:21
+Из источника: 0.000 — 6.200 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow. Затемнение последней секунды сделать в монтаже внутри существующей длительности.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: She holds the same silent, troubled profile and a barely checked breath. The vehicle stays parked. End on her unresolved gaze; leave the final fade to the editor, and do not show a journey or arrival home.
+CAMERA: A slow push toward Adele’s profile looking through the open side; finish in a stable image for the editor’s fade.
+PERFORMANCE: A silent, worried reckoning about work and the estate, with unresolved stakes.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

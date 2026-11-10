@@ -1,0 +1,24 @@
+КАДР 018a — Это несложно устроить
+
+Серии: 4
+
+00:02:43:21 — 00:02:47:11; 3.600 с
+
+Исходное действие: После «Только через мой труп» камера остаётся на Адель. Она неподвижно смотрит на сидящего Кеммера, губы сомкнуты. В уголке рта мелькает сухая ирония. На последнем слове её мысли начинается короткий переход в воображение.
+
+Генерация: GEN018a_01
+Flow: 4 с; 9:16
+Начальный кадр — К018a.jpg.
+Монтаж: 00:02:43:21 — 00:02:47:11
+Из источника: 0.000 — 3.600 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 4-second shot.
+START FRAME: Use the supplied storyboard image for frame 018a as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Adele looks at the seated Kemmer with her lips closed. The faintest ironic movement touches one corner of her mouth and disappears. End in the real, warm office; no actual touch occurs.
+CAMERA: Keep Adele’s approved close-up and eyeline; the transition to imagination is an editing cut after this shot.
+PERFORMANCE: A dry, fleeting private irony; no spoken dialogue and no large smile.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps. The real Kemmer is alive with normal skin. The imagined touch and imagined veins have no physical consequence in the actual office.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

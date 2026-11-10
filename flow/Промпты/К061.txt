@@ -1,0 +1,26 @@
+КАДР 061 — Пощёчина
+
+Серии: 13
+
+00:12:32:08 — 00:12:33:03; 0.800 с
+
+Исходное действие: Та же ПРАВАЯ ладонь коротко касается ЛЕВОЙ щеки Кеммера и уходит по дуге. Локоть согнут, запястье продолжает предплечье. Он лишь на миг прищуривается: без сильного отскока головы, падения и ответного движения. Левая рука Адель внизу.
+
+Используйте ту же генерацию, что для 060. Не генерируйте второй удар: для 061 берётся участок 2,000–2,800 с общего клипа.
+
+Генерация: GEN060_061_01
+Flow: 4 с; 9:16
+Начальный кадр — К060.jpg. К061.jpg используйте для проверки стороны контакта, а не как новое начало.
+Монтаж: 00:12:31:13 — 00:12:33:03
+Из источника: 1.200 — 2.800 с
+Общая генерация для двух кадров. После приведения к сетке 25 кадров/с: 060 — 20 кадров подготовки; 061 — следующие 20 кадров с контактом и отводом руки. Номинальные окна: 1,200–2,000 и 2,000–2,800 с. Проверьте фактический момент контакта: Flow может сместить действие; граница серии 12 должна быть до него. При необходимости выберите соседнее окно или повторите генерацию, сохраняя длительности 20 + 20 кадров.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 4-second shot.
+START FRAME: Use the supplied pre-contact image for frame 060. Preserve the already raised hand, both faces, clothing, lighting and screen sides. Do not reset the pose.
+ACTION: 0.0–1.2 s: hold the supplied pre-contact stance with natural breathing. 1.2–2.0 s: Adele’s already raised RIGHT hand completes a short controlled arc toward Kemmer’s anatomical LEFT cheek; stop just short of contact before 2.0 s. Around 2.0 s: exactly one moderate open-palmed slap contacts that left cheek. 2.0–2.8 s: her same hand withdraws downward; he briefly closes his eyes and turns his head only slightly. 2.8–4.0 s: both settle, his hands still lowered, a soft pink mark only on his left cheek. No repeated hit, counterstrike, fall, struggle, slow motion or extreme head snap.
+CAMERA: Locked full standing two-shot matching the supplied image. No cut, orbit, mirrored angle or camera shake; motion blur only on moving fingers.
+PERFORMANCE: A single impulsive reaction after humiliation. Kemmer is restrained and does not retaliate.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps. Adele’s RIGHT palm is the only hand involved in the single slap, against Kemmer’s anatomical LEFT cheek below the rune. The pink diffuse palm mark appears only after contact, finger-pad traces pointing upward toward his temple/ear; his right cheek remains unmarked. No blood, scratches, second slap, counterstrike or exaggerated head recoil.
+MOUTH: Both remain silent, with no speaking mouth movement.
+SOUND: Room ambience only; no speech, narration or music. The slap sound will be added at the actual contact point during editing.

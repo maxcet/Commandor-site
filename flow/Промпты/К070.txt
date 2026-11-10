@@ -1,0 +1,24 @@
+КАДР 070 — Плед под сиденьем
+
+Серии: 14
+
+00:13:48:03 — 00:13:52:03; 4.000 с
+
+Исходное действие: Кеммер открывает соседнюю заднюю дверцу, одной рукой приподнимает край переднего сиденья, другой вытягивает тёмный плед снизу. Основание сиденья закреплено; приподнятый край затем возвращается на место.
+
+Генерация: GEN070_01
+Flow: 4 с; 9:16
+Начальный кадр — К070.jpg.
+Монтаж: 00:13:48:03 — 00:13:52:03
+Из источника: 0.000 — 4.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 4-second shot.
+START FRAME: Use the supplied storyboard image for frame 070 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Kemmer lifts the unoccupied front-seat cushion edge nearest this rear opening with one hand and pulls the dark folded blanket from underneath with the other. He does not lift the driver or the whole seat. The fixed base remains attached; he then lets the lifted edge settle back.
+CAMERA: A tight object insert through the existing rear opening; the camera stays outside solid body panels.
+PERFORMANCE: A practical, unceremonious act of care.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. Keep the approved olive fantasy motor carriage parked: raised roof, open side apertures without glass, no internal partition, fixed hinged doors and unchanged rear spare wheel. Preserve the chassis and seat geometry; bodies and camera do not pass through solid panels.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

@@ -1,0 +1,150 @@
+КАДР 058 — Предсказанные неприятности
+
+Серии: 11
+
+00:10:31:23 — 00:11:31:21; 59.920 с
+
+Исходное действие: Кеммер перечисляет возможные неприятности, отмечая пункты небольшими движениями головы. Адель слушает всё мрачнее. После его вопроса коротко отвечает. Описываемое остаётся прогнозом, не новым событием.
+
+Генерация: GEN058_01
+Flow: 6 с; 9:16
+Начальный кадр — К058.jpg.
+Монтаж: 00:10:31:23 — 00:10:37:23
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the supplied storyboard image for frame 058 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Kemmer starts his forecast with a slight hardening of his gaze. His hands remain down.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.320–6.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_02
+Flow: 6 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_01. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:10:37:23 — 00:10:43:23
+Из источника: 0.000 — 6.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 6-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He introduces the problem of the unmarried men, making only one small head movement. The office remains the only location.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–6.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_03
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_02. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:10:43:23 — 00:10:51:23
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He continues describing invented illnesses while keeping the same measured posture. Do not show patients or injuries.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_04
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_03. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:10:51:23 — 00:10:59:23
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He elaborates on repeated visits with a restrained eyebrow movement, then steadies his eyes on Adele.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_05
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_04. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:10:59:23 — 00:11:07:23
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He turns to conflicts and competition in the unit. No duel, weapon, fight or hospital cutaway is shown.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_06
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_05. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:11:07:23 — 00:11:15:23
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He continues the comparison with the existing staff, his tone suggested by dry, economical facial movement.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_07
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_06. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:11:15:23 — 00:11:23:23
+Из источника: 0.000 — 8.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Kemmer approaches his final question, briefly holding his gaze to put pressure on her.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–8.000 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
+
+
+Генерация: GEN058_08
+Flow: 8 с; 9:16
+Начальный кадр — сохранённый последний используемый кадр GEN058_07. Не начинайте заново с картинки К058.jpg.
+Монтаж: 00:11:23:23 — 00:11:31:21
+Из источника: 0.000 — 7.920 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the final USED frame of the preceding generated clip as the first frame. Continue its exact pose, framing, lighting and object positions; do not restart the action from the original storyboard pose. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: He ends with his short question and becomes still while Adele’s brief reply remains off-screen. Stop before his next explanation.
+CAMERA: Keep the approved Kemmer close framing on the standing axis. Use a very slow controlled push; reaction inserts, if wanted, are added in editing from 057 and 059.
+PERFORMANCE: A calm, condescending forecast of trouble. These are predictions, not events happening now.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.000–5.280 s: Kemmer uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

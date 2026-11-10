@@ -1,0 +1,24 @@
+КАДР 050 — Кеммер встаёт
+
+Серии: 8
+
+00:08:06:00 — 00:08:10:00; 4.000 с
+
+Исходное действие: После незаконченной фразы Кеммер отодвигает кресло и встаёт во весь рост. Не переносится сразу к Адель: движение заканчивается ещё за столом.
+
+Генерация: GEN050_01
+Flow: 4 с; 9:16
+Начальный кадр — К050.jpg.
+Монтаж: 00:08:06:00 — 00:08:10:00
+Из источника: 0.000 — 4.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 4-second shot.
+START FRAME: Use the supplied storyboard image for frame 050 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Kemmer pushes his chair back and stands to his full height behind the desk. End there: he has not yet walked around the desk or reached Adele.
+CAMERA: Rise with Kemmer naturally; preserve adult anatomy without a wide-angle stretch.
+PERFORMANCE: A controlled decision to confront her at close range, not an attack.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: No visible person speaks. Keep visible lips still; inner thoughts and off-screen voices are supplied later as external audio.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.

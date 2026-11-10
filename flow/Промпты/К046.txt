@@ -1,0 +1,24 @@
+КАДР 046 — Она не берёт бумаги
+
+Серии: 7
+
+00:07:05:14 — 00:07:12:14; 7.000 с
+
+Исходное действие: Адель выпрямляется и отказывается забирать отказ. Руки остаются у тела; на повторном вопросе голос звучит смелее, чем выражение лица.
+
+Генерация: GEN046_01
+Flow: 8 с; 9:16
+Начальный кадр — К046.jpg.
+Монтаж: 00:07:05:14 — 00:07:12:14
+Из источника: 0.000 — 7.000 с
+В монтаж взять начало клипа до указанного выхода; звук Flow убрать, использовать готовый WAV. Отметки относятся к проекту 25 кадров/с, а не к обещанной частоте выдачи Flow.
+
+ПРОМПТ ДЛЯ КОПИРОВАНИЯ:
+FORMAT: Vertical 9:16 cinematic live-action fantasy drama, one uninterrupted 8-second shot.
+START FRAME: Use the supplied storyboard image for frame 046 as the first frame. Preserve the supplied photographic realism and natural skin texture. Begin from the pose actually visible; if a gesture is already near completion, finish and settle instead of repeating it.
+ACTION: Adele straightens and refuses to take the refusal. Her hands remain beside her body; she finishes her question, then holds her eyes on Kemmer.
+CAMERA: A small push toward Adele’s face; preserve the paper on the desk.
+PERFORMANCE: Firm at first, a slight tremor near the end, but no surrender.
+CONTINUITY: Preserve the supplied faces, hair, age, costume, skin markings, colour palette and physical set. Keep anatomically consistent hands and natural adult proportions. Maintain screen sides and eyelines; no mirroring, new characters, captions or title overlays. A character outside the supplied composition stays outside it, even if named in these continuity notes. Preserve existing writing on physical documents without inventing or rewriting it. Kemmer is 193 cm tall and Adele is 160 cm tall. When both stand on the same floor, her crown is near his upper shoulder line. Preserve the seated perspective when he is seated; never resize either body to equalise their height. Match Kemmer’s blue uniform, existing narrow gold piping, gold leaf embroidery confined to the collar, and plain blue cuffs. His blue temple rune remains on the anatomical left, with unchanged shape and no glow. This is the same office with one desk and its existing map, books and window. Match the supplied lighting; from frame 039 onward retain the already darker blue dusk and unlit lamps.
+MOUTH: For later dubbing only, approximate visual speaking turns: 0.400–6.400 s: Adele uses restrained, unvoiced speech articulation. Outside these turns, listeners keep lips still. These are visual performance cues, not a request to create a voice or exact phoneme sync.
+SOUND: Low natural location ambience only. No intelligible dialogue, voice-over, singing or music; the existing recorded soundtrack is added separately. No captions, subtitles, logos or extra scene transitions. Keep the end pose stable for the next clip; do not fade or jump to the next story event.
