@@ -1,0 +1,90 @@
+ПРЕДМЕТНЫЕ ВСТАВКИ — КАДРЫ И ПРОМПТЫ FLOW
+
+Предложение замены изображения внутри существующих первых шести секунд. Готовая озвучка остаётся на прежних местах. Длительность и 14 границ серий сохраняются, если вставки используются как замена, а не добавление.
+
+В Flow: Frames to Video, 9:16, 4 секунды. Начальный кадр — соответствующий PNG. Выберите нужный короткий участок результата для монтажа. Звук Flow убрать; голос из монтажного пакета оставить.
+Генерации видео в Flow не запускались. Это готовые изображения и текстовые задания для их анимации.
+
+ВСТ01 — Кабинет
+Чистый общий вид кабинета. Использовать как вступление до разговора: в видимом кресле нет Кеммера.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ01 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: A very gentle straight push toward the existing desk and framed map. The room remains completely empty and still; preserve the one desk, both chairs, map, parquet and bookcases. Keep the warm late-day side light and unlit fixtures unchanged. No door opens and no person appears.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Фотореалистичный вертикальный общий вид кабинета по присланной планировке; точная карта на стене, один стол, пустые кресла, тёплый свет начала ролика, без надписей панели и новых предметов.
+
+------------------------------------------------------------
+
+ВСТ02 — Настенная карта
+Основной вариант первой предметной вставки. Акцент на карте мира и районе Кербенна.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ02 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: A minimal optical push toward the printed map area around Kerbenn, keeping the plane of the paper and wooden frame physically stable. All geography, Cyrillic lettering, coastlines, boundaries and map symbols remain fixed. It is flat illustrated cartography on real paper, not a living landscape.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Крупный вертикальный фотографический вид существующей настенной карты, с частью деревянной рамы, центральными и юго-восточными землями, Кербенном и Разломом; география и подписи по референсу.
+
+------------------------------------------------------------
+
+ВСТ03 — Разлом
+Более тревожная альтернатива карте: слово «Разлом» и соседний Кербенн. Подойдёт также к упоминаниям Разлома.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ03 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: A tiny lateral photographic camera drift across the printed word Разлом and the adjacent drawn chasm. Keep the word legible and all ink shapes fixed. Preserve the existing shallow depth of field. Rivers do not flow, ships do not move, mountains do not grow and the drawing never becomes a miniature real landscape.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Фотографическая макровставка на бумажной карте: Разлом и Кербенн в исходной географии, тёплый боковой свет, фактура печатной бумаги, без превращения рисунка в реальный пейзаж.
+
+------------------------------------------------------------
+
+ВСТ04 — Императорский указ
+Указ целиком: назначение Аделины Боллар и отсутствие утверждающей подписи. Печать уточнена по отдельному референсу.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ04 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: A very slight push over the same imperial appointment decree resting flat on the dark desk. Preserve every existing Cyrillic letter, the dragon-and-crescent crest, page edges and ornamental border. The existing red wax seal stays attached at lower right; the signature line remains completely empty. Nothing is written, signed, stamped or moved.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Тот же императорский указ на тёмном столе, читаемый со стороны Кеммера, с исходным текстом и пустой подписью. Финальная правка меняет только внутренний рисунок восковой печати на точные переплетённые руны из присланного крупного референса.
+
+------------------------------------------------------------
+
+ВСТ05 — Пустая подпись
+Главная смысловая вставка под «Я не подпишу ваше назначение». Строка остаётся пустой.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ05 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: Keep the paper completely still. A restrained focus adjustment settles on the existing printed word Подпись: and its empty line. Preserve the adjacent printed title and page border. The line stays absolutely blank: no signature, ink, moving shadow shaped like writing, hand, pen or new stamp appears.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Макроплан нижней части того же указа: «Командор Седьмой эскадрильи», «Подпись:» и полностью пустая линия, фактура бумаги, тёплый боковой свет, без руки и ручки.
+
+------------------------------------------------------------
+
+ВСТ06 — Восковая печать
+Уже существующая восковая печать императорского указа. Это не чернильная личная печать Кеммера из сцены отказа.
+
+FORMAT: One uninterrupted 4-second cinematic live-action insert, vertical 9:16.
+START FRAME: Animate the supplied ВСТ06 image as the exact first frame. Preserve its photographic look and existing warm light.
+ACTION AND CAMERA: A restrained macro camera drift around the already attached crimson wax seal, with the exact existing interlaced rune emblem held in focus. Preserve the solid cooled wax, its edge, impressed grooves, paper border and position. The seal is never applied anew, pressed, melted, cracked, glowing or transformed. No stamp tool or hand enters.
+CONTINUITY: Keep all existing objects, materials, lettering and perspective consistent. Use only small natural camera movement, with a stable end pose. Do not introduce people, hands, new objects, new writing, magical effects, captions, subtitles, logos or a scene transition.
+SOUND: Quiet office room tone only, no speech, narration or music. Existing recorded dialogue is added separately during editing.
+
+Задание для создания изображения:
+Фотореалистичная макровставка существующей красной восковой печати на указе; точный рисунок двух переплетённых рун из отдельного референса, застывший воск, тёплый боковой свет, без постановки печати.
+
+------------------------------------------------------------
